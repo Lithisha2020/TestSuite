@@ -1,0 +1,1734 @@
+{
+  "resultType": "Sql",
+  "runStatus": "Complete",
+  "metaData": [
+    {
+      "Namespace": "keys",
+      "VariableName": "sequence",
+      "Label": "Labeled version of index sequence",
+      "ColumnName": "sequence",
+      "LabelColumnName": ""
+    },
+    {
+      "Namespace": "_group.1.1.test",
+      "VariableName": "brand",
+      "Label": "Label - brand",
+      "ColumnName": "brand",
+      "LabelColumnName": ""
+    },
+    {
+      "Namespace": "_group.1.1.test",
+      "VariableName": "value",
+      "Label": "Label - value",
+      "ColumnName": "value",
+      "LabelColumnName": ""
+    }
+  ],
+  "data": [
+    {
+      "sequence": 1,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 2,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 3,
+      "brand": "Imitator",
+      "value": "0"
+    },
+    {
+      "sequence": 4,
+      "brand": "Finest",
+      "value": "18.1764"
+    },
+    {
+      "sequence": 5,
+      "brand": "Finest",
+      "value": "0"
+    },
+    {
+      "sequence": 6,
+      "brand": "Mixfun",
+      "value": "0"
+    },
+    {
+      "sequence": 7,
+      "brand": "Celestial",
+      "value": "35.9744"
+    },
+    {
+      "sequence": 8,
+      "brand": "Swisspride",
+      "value": "0"
+    },
+    {
+      "sequence": 9,
+      "brand": "None of these",
+      "value": "15.5529"
+    },
+    {
+      "sequence": 10,
+      "brand": "None of these",
+      "value": "17.1027"
+    },
+    {
+      "sequence": 11,
+      "brand": "Losingfaith",
+      "value": "38.5194"
+    },
+    {
+      "sequence": 12,
+      "brand": "Gnomes",
+      "value": "35.7309"
+    },
+    {
+      "sequence": 13,
+      "brand": "Crowdchoice",
+      "value": "47.5358"
+    },
+    {
+      "sequence": 14,
+      "brand": "The Butcher",
+      "value": "0"
+    },
+    {
+      "sequence": 15,
+      "brand": "None of these",
+      "value": "8.3764"
+    },
+    {
+      "sequence": 16,
+      "brand": "Mixfun",
+      "value": "0"
+    },
+    {
+      "sequence": 17,
+      "brand": "Brightsunny",
+      "value": "8.6604"
+    },
+    {
+      "sequence": 18,
+      "brand": "Celestial",
+      "value": "28.3192"
+    },
+    {
+      "sequence": 19,
+      "brand": "Ninjayoga",
+      "value": "0"
+    },
+    {
+      "sequence": 20,
+      "brand": "Scanbest",
+      "value": "16.8318"
+    },
+    {
+      "sequence": 21,
+      "brand": "Scanbest",
+      "value": "19.1912"
+    },
+    {
+      "sequence": 22,
+      "brand": "Monk",
+      "value": "48.5472"
+    },
+    {
+      "sequence": 23,
+      "brand": "Monk",
+      "value": "61.1391"
+    },
+    {
+      "sequence": 24,
+      "brand": "Hyperliquid",
+      "value": "38.7468"
+    },
+    {
+      "sequence": 25,
+      "brand": "Finest",
+      "value": "33.4888"
+    },
+    {
+      "sequence": 26,
+      "brand": "Northern",
+      "value": "15.65"
+    },
+    {
+      "sequence": 27,
+      "brand": "None of these",
+      "value": "64.737"
+    },
+    {
+      "sequence": 28,
+      "brand": "Swisspride",
+      "value": "0"
+    },
+    {
+      "sequence": 29,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 30,
+      "brand": "Brightsunny",
+      "value": "0.248"
+    },
+    {
+      "sequence": 31,
+      "brand": "Crater",
+      "value": "0"
+    },
+    {
+      "sequence": 32,
+      "brand": "Belfast",
+      "value": "0"
+    },
+    {
+      "sequence": 33,
+      "brand": "Finest",
+      "value": "1.8216"
+    },
+    {
+      "sequence": 34,
+      "brand": "Crowdchoice",
+      "value": "5.808"
+    },
+    {
+      "sequence": 35,
+      "brand": "The Butcher",
+      "value": "0"
+    },
+    {
+      "sequence": 36,
+      "brand": "Startmeup",
+      "value": "0"
+    },
+    {
+      "sequence": 37,
+      "brand": "Losingfaith",
+      "value": "7.084"
+    },
+    {
+      "sequence": 38,
+      "brand": "Finest",
+      "value": "4.9662"
+    },
+    {
+      "sequence": 39,
+      "brand": "Northern",
+      "value": "6.5604"
+    },
+    {
+      "sequence": 40,
+      "brand": "The Butcher",
+      "value": "0"
+    },
+    {
+      "sequence": 41,
+      "brand": "Moonlight",
+      "value": "0"
+    },
+    {
+      "sequence": 42,
+      "brand": "Catch 22",
+      "value": "5.3382"
+    },
+    {
+      "sequence": 43,
+      "brand": "Catch 22",
+      "value": "2.4"
+    },
+    {
+      "sequence": 44,
+      "brand": "Harry's Brew",
+      "value": "0"
+    },
+    {
+      "sequence": 45,
+      "brand": "Harry's Brew",
+      "value": "0"
+    },
+    {
+      "sequence": 46,
+      "brand": "None of these",
+      "value": "0"
+    },
+    {
+      "sequence": 47,
+      "brand": "Ninjayoga",
+      "value": "0.67"
+    },
+    {
+      "sequence": 48,
+      "brand": "Ninjayoga",
+      "value": "1.8513"
+    },
+    {
+      "sequence": 49,
+      "brand": "Startmeup",
+      "value": "1.6564"
+    },
+    {
+      "sequence": 50,
+      "brand": "Imitator",
+      "value": "0.7332"
+    },
+    {
+      "sequence": 51,
+      "brand": "Other",
+      "value": "4.5501"
+    },
+    {
+      "sequence": 52,
+      "brand": "Scanbest",
+      "value": "0"
+    },
+    {
+      "sequence": 53,
+      "brand": "Losingfaith",
+      "value": "5.28"
+    },
+    {
+      "sequence": 54,
+      "brand": "Mixfun",
+      "value": "3.154"
+    },
+    {
+      "sequence": 55,
+      "brand": "Dogsbrew",
+      "value": "1.8531"
+    },
+    {
+      "sequence": 56,
+      "brand": "Bistrot's",
+      "value": "5.016"
+    },
+    {
+      "sequence": 57,
+      "brand": "Hyperliquid",
+      "value": "10.7787"
+    },
+    {
+      "sequence": 58,
+      "brand": "Belfast",
+      "value": "1.081"
+    },
+    {
+      "sequence": 59,
+      "brand": "Belfast",
+      "value": "0.8282"
+    },
+    {
+      "sequence": 60,
+      "brand": "Finest",
+      "value": "4.25"
+    },
+    {
+      "sequence": 61,
+      "brand": "Crowdchoice",
+      "value": "19.3104"
+    },
+    {
+      "sequence": 62,
+      "brand": "Northern",
+      "value": "0"
+    },
+    {
+      "sequence": 63,
+      "brand": "Moonlight",
+      "value": "0"
+    },
+    {
+      "sequence": 64,
+      "brand": "Moonlight",
+      "value": "0"
+    },
+    {
+      "sequence": 65,
+      "brand": "Oldstyle",
+      "value": "1.6235"
+    },
+    {
+      "sequence": 66,
+      "brand": "Oldstyle",
+      "value": "0"
+    },
+    {
+      "sequence": 67,
+      "brand": "Oldstyle",
+      "value": "1.7664"
+    },
+    {
+      "sequence": 68,
+      "brand": "Oldstyle",
+      "value": "1.3536"
+    },
+    {
+      "sequence": 69,
+      "brand": "Monk",
+      "value": "20.3808"
+    },
+    {
+      "sequence": 70,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 71,
+      "brand": "Losingfaith",
+      "value": "5.382"
+    },
+    {
+      "sequence": 72,
+      "brand": "Crater",
+      "value": "0.3145"
+    },
+    {
+      "sequence": 73,
+      "brand": "Dogsbrew",
+      "value": "1.7557"
+    },
+    {
+      "sequence": 74,
+      "brand": "Hyperliquid",
+      "value": "8.0256"
+    },
+    {
+      "sequence": 75,
+      "brand": "Belfast",
+      "value": "0"
+    },
+    {
+      "sequence": 76,
+      "brand": "Northern",
+      "value": "0"
+    },
+    {
+      "sequence": 77,
+      "brand": "Oldstyle",
+      "value": "0.336"
+    },
+    {
+      "sequence": 78,
+      "brand": "Oldstyle",
+      "value": "6.208"
+    },
+    {
+      "sequence": 79,
+      "brand": "Other",
+      "value": "0"
+    },
+    {
+      "sequence": 80,
+      "brand": "Brightsunny",
+      "value": "10.1742"
+    },
+    {
+      "sequence": 81,
+      "brand": "Scanbest",
+      "value": "3.22"
+    },
+    {
+      "sequence": 82,
+      "brand": "Losingfaith",
+      "value": "0"
+    },
+    {
+      "sequence": 83,
+      "brand": "Crater",
+      "value": "5.6826"
+    },
+    {
+      "sequence": 84,
+      "brand": "Belfast",
+      "value": "8.325"
+    },
+    {
+      "sequence": 85,
+      "brand": "Watermen",
+      "value": "8.3328"
+    },
+    {
+      "sequence": 86,
+      "brand": "Northern",
+      "value": "10.5633"
+    },
+    {
+      "sequence": 87,
+      "brand": "Moonlight",
+      "value": "5.0879"
+    },
+    {
+      "sequence": 88,
+      "brand": "Harry's Brew",
+      "value": "1.9552"
+    },
+    {
+      "sequence": 89,
+      "brand": "Imitator",
+      "value": "3.0363"
+    },
+    {
+      "sequence": 90,
+      "brand": "Other",
+      "value": "0"
+    },
+    {
+      "sequence": 91,
+      "brand": "Monk",
+      "value": "3.1584"
+    },
+    {
+      "sequence": 92,
+      "brand": "Monk",
+      "value": "4.761"
+    },
+    {
+      "sequence": 93,
+      "brand": "Scanbest",
+      "value": "7.9422"
+    },
+    {
+      "sequence": 94,
+      "brand": "Losingfaith",
+      "value": "11.8722"
+    },
+    {
+      "sequence": 95,
+      "brand": "Mixfun",
+      "value": "13.6227"
+    },
+    {
+      "sequence": 96,
+      "brand": "Dogsbrew",
+      "value": "7.05"
+    },
+    {
+      "sequence": 97,
+      "brand": "Hyperliquid",
+      "value": "8.7906"
+    },
+    {
+      "sequence": 98,
+      "brand": "Finest",
+      "value": "3.0959"
+    },
+    {
+      "sequence": 99,
+      "brand": "Finest",
+      "value": "5.3424"
+    },
+    {
+      "sequence": 100,
+      "brand": "Crowdchoice",
+      "value": "10.127"
+    },
+    {
+      "sequence": 101,
+      "brand": "The Butcher",
+      "value": "14.44"
+    },
+    {
+      "sequence": 102,
+      "brand": "Oldstyle",
+      "value": "8.806"
+    },
+    {
+      "sequence": 103,
+      "brand": "Harry's Brew",
+      "value": "11.2285"
+    },
+    {
+      "sequence": 104,
+      "brand": "Celestial",
+      "value": "7.032"
+    },
+    {
+      "sequence": 105,
+      "brand": "Swisspride",
+      "value": "0"
+    },
+    {
+      "sequence": 106,
+      "brand": "Monk",
+      "value": "24.77"
+    },
+    {
+      "sequence": 107,
+      "brand": "Monk",
+      "value": "18.6528"
+    },
+    {
+      "sequence": 108,
+      "brand": "Van Gogh",
+      "value": "2.8512"
+    },
+    {
+      "sequence": 109,
+      "brand": "Scanbest",
+      "value": "4.914"
+    },
+    {
+      "sequence": 110,
+      "brand": "Scanbest",
+      "value": "3.526"
+    },
+    {
+      "sequence": 111,
+      "brand": "Crater",
+      "value": "1.4536"
+    },
+    {
+      "sequence": 112,
+      "brand": "Dogsbrew",
+      "value": "1.3671"
+    },
+    {
+      "sequence": 113,
+      "brand": "Dogsbrew",
+      "value": "11.9705"
+    },
+    {
+      "sequence": 114,
+      "brand": "Dogsbrew",
+      "value": "19.7802"
+    },
+    {
+      "sequence": 115,
+      "brand": "Black & Gold",
+      "value": "0"
+    },
+    {
+      "sequence": 116,
+      "brand": "Black & Gold",
+      "value": "4.233"
+    },
+    {
+      "sequence": 117,
+      "brand": "Finest",
+      "value": "5.4816"
+    },
+    {
+      "sequence": 118,
+      "brand": "Gnomes",
+      "value": "14.2974"
+    },
+    {
+      "sequence": 119,
+      "brand": "Watermen",
+      "value": "2.6945"
+    },
+    {
+      "sequence": 120,
+      "brand": "Catch 22",
+      "value": "4.4038"
+    },
+    {
+      "sequence": 121,
+      "brand": "Celestial",
+      "value": "26.1915"
+    },
+    {
+      "sequence": 122,
+      "brand": "Ninjayoga",
+      "value": "0"
+    },
+    {
+      "sequence": 123,
+      "brand": "Startmeup",
+      "value": "0"
+    },
+    {
+      "sequence": 124,
+      "brand": "Imitator",
+      "value": "4.959"
+    },
+    {
+      "sequence": 125,
+      "brand": "Brightsunny",
+      "value": "4.9215"
+    },
+    {
+      "sequence": 126,
+      "brand": "Brightsunny",
+      "value": "9.512"
+    },
+    {
+      "sequence": 127,
+      "brand": "Van Gogh",
+      "value": "9.3585"
+    },
+    {
+      "sequence": 128,
+      "brand": "Van Gogh",
+      "value": "9.504"
+    },
+    {
+      "sequence": 129,
+      "brand": "Losingfaith",
+      "value": "21.1124"
+    },
+    {
+      "sequence": 130,
+      "brand": "Losingfaith",
+      "value": "19.4298"
+    },
+    {
+      "sequence": 131,
+      "brand": "Belfast",
+      "value": "6.3147"
+    },
+    {
+      "sequence": 132,
+      "brand": "Finest",
+      "value": "11.5896"
+    },
+    {
+      "sequence": 133,
+      "brand": "Gnomes",
+      "value": "19.646"
+    },
+    {
+      "sequence": 134,
+      "brand": "Watermen",
+      "value": "0"
+    },
+    {
+      "sequence": 135,
+      "brand": "Moonlight",
+      "value": "1.056"
+    },
+    {
+      "sequence": 136,
+      "brand": "Oldstyle",
+      "value": "14.9589"
+    },
+    {
+      "sequence": 137,
+      "brand": "Harry's Brew",
+      "value": "1.1528"
+    },
+    {
+      "sequence": 138,
+      "brand": "Celestial",
+      "value": "53.1384"
+    },
+    {
+      "sequence": 139,
+      "brand": "None of these",
+      "value": "1.7679"
+    },
+    {
+      "sequence": 140,
+      "brand": "Ninjayoga",
+      "value": "0"
+    },
+    {
+      "sequence": 141,
+      "brand": "Other",
+      "value": "9.2204"
+    },
+    {
+      "sequence": 142,
+      "brand": "Other",
+      "value": "8.3349"
+    },
+    {
+      "sequence": 143,
+      "brand": "Other",
+      "value": "8.8788"
+    },
+    {
+      "sequence": 144,
+      "brand": "Scanbest",
+      "value": "0"
+    },
+    {
+      "sequence": 145,
+      "brand": "Losingfaith",
+      "value": "2.89"
+    },
+    {
+      "sequence": 146,
+      "brand": "Dogsbrew",
+      "value": "0"
+    },
+    {
+      "sequence": 147,
+      "brand": "Dogsbrew",
+      "value": "0"
+    },
+    {
+      "sequence": 148,
+      "brand": "Bistrot's",
+      "value": "13.5897"
+    },
+    {
+      "sequence": 149,
+      "brand": "Belfast",
+      "value": "0.9"
+    },
+    {
+      "sequence": 150,
+      "brand": "The Butcher",
+      "value": "0.8245"
+    },
+    {
+      "sequence": 151,
+      "brand": "Moonlight",
+      "value": "0"
+    },
+    {
+      "sequence": 152,
+      "brand": "Oldstyle",
+      "value": "0"
+    },
+    {
+      "sequence": 153,
+      "brand": "Harry's Brew",
+      "value": "0"
+    },
+    {
+      "sequence": 154,
+      "brand": "None of these",
+      "value": "97"
+    },
+    {
+      "sequence": 155,
+      "brand": "Hyperliquid",
+      "value": "0"
+    },
+    {
+      "sequence": 156,
+      "brand": "Watermen",
+      "value": "2.4541"
+    },
+    {
+      "sequence": 157,
+      "brand": "Northern",
+      "value": "1.5372"
+    },
+    {
+      "sequence": 158,
+      "brand": "Oldstyle",
+      "value": "0"
+    },
+    {
+      "sequence": 159,
+      "brand": "Bistrot's",
+      "value": "44.2728"
+    },
+    {
+      "sequence": 160,
+      "brand": "Gnomes",
+      "value": "14.473"
+    },
+    {
+      "sequence": 161,
+      "brand": "Mixfun",
+      "value": "5.8473"
+    },
+    {
+      "sequence": 162,
+      "brand": "Imitator",
+      "value": "7.0805"
+    },
+    {
+      "sequence": 163,
+      "brand": "Northern",
+      "value": "0"
+    },
+    {
+      "sequence": 164,
+      "brand": "Oldstyle",
+      "value": "11.609"
+    },
+    {
+      "sequence": 165,
+      "brand": "None of these",
+      "value": "8.2438"
+    },
+    {
+      "sequence": 166,
+      "brand": "None of these",
+      "value": "9.1881"
+    },
+    {
+      "sequence": 167,
+      "brand": "Startmeup",
+      "value": "0"
+    },
+    {
+      "sequence": 168,
+      "brand": "Mixfun",
+      "value": "28.827"
+    },
+    {
+      "sequence": 169,
+      "brand": "Mixfun",
+      "value": "32.8588"
+    },
+    {
+      "sequence": 170,
+      "brand": "Mixfun",
+      "value": "0"
+    },
+    {
+      "sequence": 171,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 172,
+      "brand": "Scanbest",
+      "value": "21.217"
+    },
+    {
+      "sequence": 173,
+      "brand": "Hyperliquid",
+      "value": "32.9103"
+    },
+    {
+      "sequence": 174,
+      "brand": "Finest",
+      "value": "29.9628"
+    },
+    {
+      "sequence": 175,
+      "brand": "Crowdchoice",
+      "value": "27.0648"
+    },
+    {
+      "sequence": 176,
+      "brand": "Northern",
+      "value": "25.656"
+    },
+    {
+      "sequence": 177,
+      "brand": "Celestial",
+      "value": "36.3872"
+    },
+    {
+      "sequence": 178,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 179,
+      "brand": "Crowdchoice",
+      "value": "4.4252"
+    },
+    {
+      "sequence": 180,
+      "brand": "Startmeup",
+      "value": "0"
+    },
+    {
+      "sequence": 181,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 182,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 183,
+      "brand": "Scanbest",
+      "value": "13.33"
+    },
+    {
+      "sequence": 184,
+      "brand": "Monk",
+      "value": "51.408"
+    },
+    {
+      "sequence": 185,
+      "brand": "Monk",
+      "value": "63.55"
+    },
+    {
+      "sequence": 186,
+      "brand": "Dogsbrew",
+      "value": "17.9124"
+    },
+    {
+      "sequence": 187,
+      "brand": "Dogsbrew",
+      "value": "28.9188"
+    },
+    {
+      "sequence": 188,
+      "brand": "Finest",
+      "value": "35.5308"
+    },
+    {
+      "sequence": 189,
+      "brand": "Northern",
+      "value": "21.8085"
+    },
+    {
+      "sequence": 190,
+      "brand": "The Butcher",
+      "value": "0"
+    },
+    {
+      "sequence": 191,
+      "brand": "Startmeup",
+      "value": "0"
+    },
+    {
+      "sequence": 192,
+      "brand": "Startmeup",
+      "value": "0"
+    },
+    {
+      "sequence": 193,
+      "brand": "Other",
+      "value": "0"
+    },
+    {
+      "sequence": 194,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 195,
+      "brand": "Van Gogh",
+      "value": "0"
+    },
+    {
+      "sequence": 196,
+      "brand": "Van Gogh",
+      "value": "3.4489"
+    },
+    {
+      "sequence": 197,
+      "brand": "Scanbest",
+      "value": "0"
+    },
+    {
+      "sequence": 198,
+      "brand": "Scanbest",
+      "value": "5.7512"
+    },
+    {
+      "sequence": 199,
+      "brand": "Scanbest",
+      "value": "4.1583"
+    },
+    {
+      "sequence": 200,
+      "brand": "Mixfun",
+      "value": "1.9292"
+    },
+    {
+      "sequence": 201,
+      "brand": "Mixfun",
+      "value": "2.5317"
+    },
+    {
+      "sequence": 202,
+      "brand": "Finest",
+      "value": "9.3024"
+    },
+    {
+      "sequence": 203,
+      "brand": "Crowdchoice",
+      "value": "3.3196"
+    },
+    {
+      "sequence": 204,
+      "brand": "Northern",
+      "value": "0"
+    },
+    {
+      "sequence": 205,
+      "brand": "Northern",
+      "value": "5.738"
+    },
+    {
+      "sequence": 206,
+      "brand": "Catch 22",
+      "value": "0"
+    },
+    {
+      "sequence": 207,
+      "brand": "Celestial",
+      "value": "12.6907"
+    },
+    {
+      "sequence": 208,
+      "brand": "Celestial",
+      "value": "6.872"
+    },
+    {
+      "sequence": 209,
+      "brand": "None of these",
+      "value": "51.7104"
+    },
+    {
+      "sequence": 210,
+      "brand": "Swisspride",
+      "value": "0"
+    },
+    {
+      "sequence": 211,
+      "brand": "Van Gogh",
+      "value": "0.7068"
+    },
+    {
+      "sequence": 212,
+      "brand": "Mixfun",
+      "value": "4.6576"
+    },
+    {
+      "sequence": 213,
+      "brand": "Bistrot's",
+      "value": "4.5198"
+    },
+    {
+      "sequence": 214,
+      "brand": "Bistrot's",
+      "value": "10.013"
+    },
+    {
+      "sequence": 215,
+      "brand": "Hyperliquid",
+      "value": "11.799"
+    },
+    {
+      "sequence": 216,
+      "brand": "Black & Gold",
+      "value": "0.624"
+    },
+    {
+      "sequence": 217,
+      "brand": "Watermen",
+      "value": "0"
+    },
+    {
+      "sequence": 218,
+      "brand": "Watermen",
+      "value": "3.1"
+    },
+    {
+      "sequence": 219,
+      "brand": "Crowdchoice",
+      "value": "9.1083"
+    },
+    {
+      "sequence": 220,
+      "brand": "Moonlight",
+      "value": "0"
+    },
+    {
+      "sequence": 221,
+      "brand": "None of these",
+      "value": "0"
+    },
+    {
+      "sequence": 222,
+      "brand": "None of these",
+      "value": "0"
+    },
+    {
+      "sequence": 223,
+      "brand": "Ninjayoga",
+      "value": "0"
+    },
+    {
+      "sequence": 224,
+      "brand": "Ninjayoga",
+      "value": "0"
+    },
+    {
+      "sequence": 225,
+      "brand": "Swisspride",
+      "value": "0"
+    },
+    {
+      "sequence": 226,
+      "brand": "Swisspride",
+      "value": "0"
+    },
+    {
+      "sequence": 227,
+      "brand": "Imitator",
+      "value": "1.208"
+    },
+    {
+      "sequence": 228,
+      "brand": "Other",
+      "value": "7.6533"
+    },
+    {
+      "sequence": 229,
+      "brand": "Brightsunny",
+      "value": "0.4576"
+    },
+    {
+      "sequence": 230,
+      "brand": "Scanbest",
+      "value": "0"
+    },
+    {
+      "sequence": 231,
+      "brand": "Mixfun",
+      "value": "2.6967"
+    },
+    {
+      "sequence": 232,
+      "brand": "Crater",
+      "value": "1.7512"
+    },
+    {
+      "sequence": 233,
+      "brand": "Dogsbrew",
+      "value": "0.3854"
+    },
+    {
+      "sequence": 234,
+      "brand": "Finest",
+      "value": "6.2745"
+    },
+    {
+      "sequence": 235,
+      "brand": "Gnomes",
+      "value": "10.6875"
+    },
+    {
+      "sequence": 236,
+      "brand": "Moonlight",
+      "value": "0"
+    },
+    {
+      "sequence": 237,
+      "brand": "Catch 22",
+      "value": "2.4795"
+    },
+    {
+      "sequence": 238,
+      "brand": "Catch 22",
+      "value": "3.9216"
+    },
+    {
+      "sequence": 239,
+      "brand": "None of these",
+      "value": "0"
+    },
+    {
+      "sequence": 240,
+      "brand": "Swisspride",
+      "value": "0"
+    },
+    {
+      "sequence": 241,
+      "brand": "Imitator",
+      "value": "0"
+    },
+    {
+      "sequence": 242,
+      "brand": "Other",
+      "value": "1.2665"
+    },
+    {
+      "sequence": 243,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 244,
+      "brand": "Mixfun",
+      "value": "0"
+    },
+    {
+      "sequence": 245,
+      "brand": "Crater",
+      "value": "0"
+    },
+    {
+      "sequence": 246,
+      "brand": "Bistrot's",
+      "value": "7.923"
+    },
+    {
+      "sequence": 247,
+      "brand": "Belfast",
+      "value": "0.8924"
+    },
+    {
+      "sequence": 248,
+      "brand": "Belfast",
+      "value": "1.3776"
+    },
+    {
+      "sequence": 249,
+      "brand": "Northern",
+      "value": "0"
+    },
+    {
+      "sequence": 250,
+      "brand": "Oldstyle",
+      "value": "0"
+    },
+    {
+      "sequence": 251,
+      "brand": "Catch 22",
+      "value": "1.1125"
+    },
+    {
+      "sequence": 252,
+      "brand": "Harry's Brew",
+      "value": "0"
+    },
+    {
+      "sequence": 253,
+      "brand": "Harry's Brew",
+      "value": "0"
+    },
+    {
+      "sequence": 254,
+      "brand": "Ninjayoga",
+      "value": "0"
+    },
+    {
+      "sequence": 255,
+      "brand": "Monk",
+      "value": "13.311"
+    },
+    {
+      "sequence": 256,
+      "brand": "Losingfaith",
+      "value": "16.5965"
+    },
+    {
+      "sequence": 257,
+      "brand": "Mixfun",
+      "value": "7.6992"
+    },
+    {
+      "sequence": 258,
+      "brand": "Mixfun",
+      "value": "2.4638"
+    },
+    {
+      "sequence": 259,
+      "brand": "Finest",
+      "value": "10.956"
+    },
+    {
+      "sequence": 260,
+      "brand": "Crowdchoice",
+      "value": "7.7924"
+    },
+    {
+      "sequence": 261,
+      "brand": "Moonlight",
+      "value": "6.528"
+    },
+    {
+      "sequence": 262,
+      "brand": "Brightsunny",
+      "value": "16.3449"
+    },
+    {
+      "sequence": 263,
+      "brand": "Scanbest",
+      "value": "6.6216"
+    },
+    {
+      "sequence": 264,
+      "brand": "Hyperliquid",
+      "value": "4.8918"
+    },
+    {
+      "sequence": 265,
+      "brand": "Catch 22",
+      "value": "19.6768"
+    },
+    {
+      "sequence": 266,
+      "brand": "Van Gogh",
+      "value": "1.691"
+    },
+    {
+      "sequence": 267,
+      "brand": "Van Gogh",
+      "value": "2.2352"
+    },
+    {
+      "sequence": 268,
+      "brand": "Losingfaith",
+      "value": "6.4337"
+    },
+    {
+      "sequence": 269,
+      "brand": "Gnomes",
+      "value": "13.005"
+    },
+    {
+      "sequence": 270,
+      "brand": "The Butcher",
+      "value": "0"
+    },
+    {
+      "sequence": 271,
+      "brand": "Moonlight",
+      "value": "5.4027"
+    },
+    {
+      "sequence": 272,
+      "brand": "Oldstyle",
+      "value": "7.125"
+    },
+    {
+      "sequence": 273,
+      "brand": "Harry's Brew",
+      "value": "0"
+    },
+    {
+      "sequence": 274,
+      "brand": "Harry's Brew",
+      "value": "1.0695"
+    },
+    {
+      "sequence": 275,
+      "brand": "Other",
+      "value": "50.264"
+    },
+    {
+      "sequence": 276,
+      "brand": "Van Gogh",
+      "value": "6.0864"
+    },
+    {
+      "sequence": 277,
+      "brand": "Scanbest",
+      "value": "0.7128"
+    },
+    {
+      "sequence": 278,
+      "brand": "Scanbest",
+      "value": "5.9719"
+    },
+    {
+      "sequence": 279,
+      "brand": "Scanbest",
+      "value": "4.6752"
+    },
+    {
+      "sequence": 280,
+      "brand": "Mixfun",
+      "value": "0"
+    },
+    {
+      "sequence": 281,
+      "brand": "Crater",
+      "value": "2.9736"
+    },
+    {
+      "sequence": 282,
+      "brand": "Dogsbrew",
+      "value": "5.4405"
+    },
+    {
+      "sequence": 283,
+      "brand": "Dogsbrew",
+      "value": "4.644"
+    },
+    {
+      "sequence": 284,
+      "brand": "Finest",
+      "value": "7.6804"
+    },
+    {
+      "sequence": 285,
+      "brand": "Watermen",
+      "value": "4.0506"
+    },
+    {
+      "sequence": 286,
+      "brand": "Crowdchoice",
+      "value": "21.1464"
+    },
+    {
+      "sequence": 287,
+      "brand": "The Butcher",
+      "value": "7.3959"
+    },
+    {
+      "sequence": 288,
+      "brand": "The Butcher",
+      "value": "0"
+    },
+    {
+      "sequence": 289,
+      "brand": "Oldstyle",
+      "value": "11.15"
+    },
+    {
+      "sequence": 290,
+      "brand": "Catch 22",
+      "value": "0"
+    },
+    {
+      "sequence": 291,
+      "brand": "Catch 22",
+      "value": "6.2914"
+    },
+    {
+      "sequence": 292,
+      "brand": "Celestial",
+      "value": "67.1066"
+    },
+    {
+      "sequence": 293,
+      "brand": "Startmeup",
+      "value": "0"
+    },
+    {
+      "sequence": 294,
+      "brand": "Other",
+      "value": "9.4656"
+    },
+    {
+      "sequence": 295,
+      "brand": "Monk",
+      "value": "15.834"
+    },
+    {
+      "sequence": 296,
+      "brand": "Monk",
+      "value": "16.732"
+    },
+    {
+      "sequence": 297,
+      "brand": "Monk",
+      "value": "14.0448"
+    },
+    {
+      "sequence": 298,
+      "brand": "Scanbest",
+      "value": "0"
+    },
+    {
+      "sequence": 299,
+      "brand": "Scanbest",
+      "value": "0"
+    },
+    {
+      "sequence": 300,
+      "brand": "Hyperliquid",
+      "value": "12.2848"
+    },
+    {
+      "sequence": 301,
+      "brand": "Finest",
+      "value": "1.927"
+    },
+    {
+      "sequence": 302,
+      "brand": "Crowdchoice",
+      "value": "4.9068"
+    },
+    {
+      "sequence": 303,
+      "brand": "Crowdchoice",
+      "value": "4.0992"
+    },
+    {
+      "sequence": 304,
+      "brand": "The Butcher",
+      "value": "0"
+    },
+    {
+      "sequence": 305,
+      "brand": "The Butcher",
+      "value": "0"
+    },
+    {
+      "sequence": 306,
+      "brand": "Oldstyle",
+      "value": "1.3485"
+    },
+    {
+      "sequence": 307,
+      "brand": "Oldstyle",
+      "value": "1.804"
+    },
+    {
+      "sequence": 308,
+      "brand": "Catch 22",
+      "value": "0"
+    },
+    {
+      "sequence": 309,
+      "brand": "Harry's Brew",
+      "value": "0"
+    },
+    {
+      "sequence": 310,
+      "brand": "Dogsbrew",
+      "value": "1236724.562"
+    },
+    {
+      "sequence": 311,
+      "brand": "Watermen",
+      "value": "0.550595621"
+    },
+    {
+      "sequence": 312,
+      "brand": "Watermen",
+      "value": "0.495300398"
+    },
+    {
+      "sequence": 313,
+      "brand": "Bistrot_s",
+      "value": "6374366.179"
+    },
+    {
+      "sequence": 314,
+      "brand": "Crowdchoice",
+      "value": "3.494513869"
+    },
+    {
+      "sequence": 315,
+      "brand": "Scansbest",
+      "value": "13044470.73"
+    },
+    {
+      "sequence": 316,
+      "brand": "Startmeup",
+      "value": "175179.6318"
+    },
+    {
+      "sequence": 317,
+      "brand": "Ninjayoga",
+      "value": "0.726470668"
+    },
+    {
+      "sequence": 318,
+      "brand": "Scansbest",
+      "value": "109.708"
+    },
+    {
+      "sequence": 319,
+      "brand": "Hyperliquid",
+      "value": "104.3"
+    },
+    {
+      "sequence": 320,
+      "brand": "Oldstyle",
+      "value": "0"
+    },
+    {
+      "sequence": 321,
+      "brand": "Imitator",
+      "value": "0"
+    },
+    {
+      "sequence": 322,
+      "brand": "Swisspride",
+      "value": "7.1"
+    },
+    {
+      "sequence": 323,
+      "brand": "Watermen",
+      "value": "0"
+    },
+    {
+      "sequence": 324,
+      "brand": "Losingfaith",
+      "value": "2687.408"
+    },
+    {
+      "sequence": 325,
+      "brand": "Monk",
+      "value": "9.55"
+    },
+    {
+      "sequence": 326,
+      "brand": "Oldstyle",
+      "value": "145.71"
+    },
+    {
+      "sequence": 327,
+      "brand": null,
+      "value": "568.844"
+    },
+    {
+      "sequence": 328,
+      "brand": "Northern",
+      "value": "0"
+    },
+    {
+      "sequence": 329,
+      "brand": "Mixfun",
+      "value": "0"
+    },
+    {
+      "sequence": 330,
+      "brand": null,
+      "value": "4280.415"
+    },
+    {
+      "sequence": 331,
+      "brand": "Oldstyle",
+      "value": "0"
+    },
+    {
+      "sequence": 332,
+      "brand": "Losingfaith",
+      "value": "1480.25"
+    },
+    {
+      "sequence": 333,
+      "brand": "Northern",
+      "value": "0"
+    },
+    {
+      "sequence": 334,
+      "brand": null,
+      "value": "4759.145"
+    },
+    {
+      "sequence": 335,
+      "brand": "Dogsbrew",
+      "value": "0"
+    },
+    {
+      "sequence": 336,
+      "brand": "Watermen",
+      "value": "0"
+    },
+    {
+      "sequence": 337,
+      "brand": "Brightsunny",
+      "value": "0"
+    },
+    {
+      "sequence": 338,
+      "brand": "Bistrot_s",
+      "value": "430.945"
+    },
+    {
+      "sequence": 339,
+      "brand": null,
+      "value": "3567.198"
+    },
+    {
+      "sequence": 340,
+      "brand": "Finest",
+      "value": "0"
+    },
+    {
+      "sequence": 341,
+      "brand": "Scansbest",
+      "value": "0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variables": [
+    {
+      "variableName": "datamap.export.*",
+      "isPattern": true
+    }
+  ],
+  
+    "exportOptions": {
+    "exportType": "CSV",
+    "targetObject": "testtest13"
+  }
+} 

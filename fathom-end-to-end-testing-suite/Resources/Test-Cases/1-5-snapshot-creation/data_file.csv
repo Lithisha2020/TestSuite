@@ -1,0 +1,342 @@
+base,brand,brandtype,channel,context,countryabbreviation,countryname,duration,mappedbrand,mappedcontext,metric,metric group,opbrand,period,product,units,value,sample details
+6,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,41812,Survey,%,0,age 18 - 45
+4,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,41637,Survey,%,0,age 18 - 45
+4,Imitator,,,Drinks,,France,1W,Imitator,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,42456,Survey,%,0,age 18 - 45
+9,Finest,,,Drinks,,France,1W,Finest,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,42862,Survey,%,18.1764,age 18 - 45
+3,Finest,,,Drinks,,France,1W,Finest,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,41854,Survey,%,0,age 18 - 45
+12,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Imagery (adhoc) - A brand worth its price,Imagery (adhoc) ,KTNS,41721,Survey,%,0,age 18 - 45
+11,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Imagery (adhoc) - A brand worth its price,Imagery (adhoc) ,KTNS,41602,Survey,%,35.9744,age 18 - 45
+16,Swisspride,,,Drinks,,France,1W,Swisspride,Drinks,Imagery (adhoc) - A brand worth paying more money for,Imagery (adhoc) ,KTNS,42169,Survey,%,0,age 18 - 45
+13,None of these,,,Drinks,,France,1W,,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42834,Survey,%,15.5529,age 18 - 45
+15,None of these,,,Drinks,,France,1W,,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42239,Survey,%,17.1027,age 18 - 45
+10,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42939,Survey,%,38.5194,age 18 - 45
+5,Gnomes,,,Drinks,,France,1W,Gnomes,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42106,Survey,%,35.7309,age 18 - 45
+7,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42526,Survey,%,47.5358,age 18 - 45
+4,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,43065,Survey,%,0,age 18 - 45
+6,None of these,,,Drinks,,France,1W,,Drinks,Imagery (adhoc) - Has high quality,Imagery (adhoc) ,KTNS,43191,Survey,%,8.3764,age 18 - 45
+9,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Imagery (adhoc) - Has high quality,Imagery (adhoc) ,KTNS,42316,Survey,%,0,age 18 - 45
+8,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Imagery (adhoc) - Has high quality,Imagery (adhoc) ,KTNS,42498,Survey,%,8.6604,age 18 - 45
+9,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Imagery (adhoc) - Has high quality,Imagery (adhoc) ,KTNS,41861,Survey,%,28.3192,age 18 - 45
+15,Ninjayoga,,,Drinks,,France,1W,Ninjayoga,Drinks,Equity - Equity,Equity ,KTNS,41588,Survey,absolute,0,age 18 - 45
+12,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Equity - Equity,Equity ,KTNS,42806,Survey,absolute,16.8318,age 18 - 45
+10,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Equity - Equity,Equity ,KTNS,42470,Survey,absolute,19.1912,age 18 - 45
+5,Monk,,,Drinks,,France,1W,Monk,Drinks,Equity - Equity,Equity ,KTNS,42456,Survey,absolute,48.5472,age 18 - 45
+9,Monk,,,Drinks,,France,1W,Monk,Drinks,Equity - Equity,Equity ,KTNS,41728,Survey,absolute,61.1391,age 18 - 45
+2,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Equity - Equity,Equity ,KTNS,41595,Survey,absolute,38.7468,age 18 - 45
+8,Finest,,,Drinks,,France,1W,Finest,Drinks,Equity - Equity,Equity ,KTNS,41798,Survey,absolute,33.4888,age 18 - 45
+7,Northern,,,Drinks,,France,1W,Northern,Drinks,Equity - Equity,Equity ,KTNS,42232,Survey,absolute,15.65,age 18 - 45
+11,None of these,,,Drinks,,France,1W,,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41609,Survey,%,64.737,age 18 - 45
+10,Swisspride,,,Drinks,,France,1W,Swisspride,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41609,Survey,%,0,age 18 - 45
+18,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42064,Survey,%,0,age 18 - 45
+37,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41973,Survey,%,0.248,age 18 - 45
+23,Crater,,,Drinks,,France,1W,Crater,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42029,Survey,%,0,age 18 - 45
+13,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41784,Survey,%,0,age 18 - 45
+30,Finest,,,Drinks,,France,1W,Finest,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41980,Survey,%,1.8216,age 18 - 45
+24,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41665,Survey,%,5.808,age 18 - 45
+8,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41539,Survey,%,0,age 18 - 45
+12,Startmeup,,,Drinks,,France,1W,Startmeup,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42274,Survey,%,0,age 18 - 45
+31,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42960,Survey,%,7.084,age 18 - 45
+16,Finest,,,Drinks,,France,1W,Finest,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42680,Survey,%,4.9662,age 18 - 45
+16,Northern,,,Drinks,,France,1W,Northern,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42932,Survey,%,6.5604,age 18 - 45
+16,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,43191,Survey,%,0,age 18 - 45
+29,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42834,Survey,%,0,age 18 - 45
+18,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42218,Survey,%,5.3382,age 18 - 45
+16,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,41938,Survey,%,2.4,age 18 - 45
+10,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42785,Survey,%,0,age 18 - 45
+3,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,41595,Survey,%,0,age 18 - 45
+8,None of these,,,Drinks,,France,1W,,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41658,Survey,%,0,age 18 - 45
+16,Ninjayoga,,,Drinks,,France,1W,Ninjayoga,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42694,Survey,%,0.67,age 18 - 45
+14,Ninjayoga,,,Drinks,,France,1W,Ninjayoga,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42428,Survey,%,1.8513,age 18 - 45
+31,Startmeup,,,Drinks,,France,1W,Startmeup,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42792,Survey,%,1.6564,age 18 - 45
+8,Imitator,,,Drinks,,France,1W,Imitator,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42925,Survey,%,0.7332,age 18 - 45
+8,Other,,,Drinks,,France,1W,,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42981,Survey,%,4.5501,age 18 - 45
+25,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42820,Survey,%,0,age 18 - 45
+24,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41945,Survey,%,5.28,age 18 - 45
+23,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42113,Survey,%,3.154,age 18 - 45
+28,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,43037,Survey,%,1.8531,age 18 - 45
+38,Bistrot's,,,Drinks,,France,1W,Bistrot's,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42659,Survey,%,5.016,age 18 - 45
+23,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42309,Survey,%,10.7787,age 18 - 45
+41,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41987,Survey,%,1.081,age 18 - 45
+28,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41819,Survey,%,0.8282,age 18 - 45
+17,Finest,,,Drinks,,France,1W,Finest,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42512,Survey,%,4.25,age 18 - 45
+6,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41637,Survey,%,19.3104,age 18 - 45
+10,Northern,,,Drinks,,France,1W,Northern,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42771,Survey,%,0,age 18 - 45
+34,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42974,Survey,%,0,age 18 - 45
+17,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41714,Survey,%,0,age 18 - 45
+18,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42463,Survey,%,1.6235,age 18 - 45
+13,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42428,Survey,%,0,age 18 - 45
+28,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42421,Survey,%,1.7664,age 18 - 45
+19,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42141,Survey,%,1.3536,age 18 - 45
+26,Monk,,,Drinks,,France,1W,Monk,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,43170,Survey,%,20.3808,age 18 - 45
+10,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41966,Survey,%,0,age 18 - 45
+17,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41917,Survey,%,5.382,age 18 - 45
+31,Crater,,,Drinks,,France,1W,Crater,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,42960,Survey,%,0.3145,age 18 - 45
+34,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,42848,Survey,%,1.7557,age 18 - 45
+31,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,42848,Survey,%,8.0256,age 18 - 45
+36,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,42988,Survey,%,0,age 18 - 45
+25,Northern,,,Drinks,,France,1W,Northern,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,42211,Survey,%,0,age 18 - 45
+29,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41980,Survey,%,0.336,age 18 - 45
+10,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41609,Survey,%,6.208,age 18 - 45
+6,Other,,,Drinks,,France,1W,,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,42652,Survey,%,0,age 18 - 45
+20,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,42281,Survey,%,10.1742,age 18 - 45
+24,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,41791,Survey,%,3.22,age 18 - 45
+0,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,42729,Survey,%,0,age 18 - 45
+13,Crater,,,Drinks,,France,1W,Crater,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,42967,Survey,%,5.6826,age 18 - 45
+37,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,42848,Survey,%,8.325,age 18 - 45
+24,Watermen,,,Drinks,,France,1W,Watermen,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,41560,Survey,%,8.3328,age 18 - 45
+14,Northern,,,Drinks,,France,1W,Northern,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,43009,Survey,%,10.5633,age 18 - 45
+36,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,42806,Survey,%,5.0879,age 18 - 45
+26,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,42225,Survey,%,1.9552,age 18 - 45
+16,Imitator,,,Drinks,,France,1W,Imitator,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41917,Survey,%,3.0363,age 18 - 45
+17,Other,,,Drinks,,France,1W,,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41714,Survey,%,0,age 18 - 45
+18,Monk,,,Drinks,,France,1W,Monk,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42666,Survey,%,3.1584,age 18 - 45
+24,Monk,,,Drinks,,France,1W,Monk,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42127,Survey,%,4.761,age 18 - 45
+25,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41518,Survey,%,7.9422,age 18 - 45
+21,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41707,Survey,%,11.8722,age 18 - 45
+1,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42400,Survey,%,13.6227,age 18 - 45
+35,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42778,Survey,%,7.05,age 18 - 45
+32,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42659,Survey,%,8.7906,age 18 - 45
+15,Finest,,,Drinks,,France,1W,Finest,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41896,Survey,%,3.0959,age 18 - 45
+27,Finest,,,Drinks,,France,1W,Finest,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41630,Survey,%,5.3424,age 18 - 45
+24,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41749,Survey,%,10.127,age 18 - 45
+6,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42757,Survey,%,14.44,age 18 - 45
+32,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,43156,Survey,%,8.806,age 18 - 45
+22,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42281,Survey,%,11.2285,age 18 - 45
+31,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41959,Survey,%,7.032,age 18 - 45
+9,Swisspride,,,Drinks,,France,1W,Swisspride,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41700,Survey,%,0,age 18 - 45
+23,Monk,,,Drinks,,France,1W,Monk,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42015,Survey,%,24.77,age 18 - 45
+26,Monk,,,Drinks,,France,1W,Monk,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41994,Survey,%,18.6528,age 18 - 45
+32,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42848,Survey,%,2.8512,age 18 - 45
+43,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42351,Survey,%,4.914,age 18 - 45
+24,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41931,Survey,%,3.526,age 18 - 45
+19,Crater,,,Drinks,,France,1W,Crater,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42120,Survey,%,1.4536,age 18 - 45
+15,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42428,Survey,%,1.3671,age 18 - 45
+6,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42050,Survey,%,11.9705,age 18 - 45
+2,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41497,Survey,%,19.7802,age 18 - 45
+4,Black & Gold,,,Drinks,,France,1W,Black & Gold,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42386,Survey,%,0,age 18 - 45
+12,Black & Gold,,,Drinks,,France,1W,Black & Gold,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41812,Survey,%,4.233,age 18 - 45
+3,Finest,,,Drinks,,France,1W,Finest,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41623,Survey,%,5.4816,age 18 - 45
+31,Gnomes,,,Drinks,,France,1W,Gnomes,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41588,Survey,%,14.2974,age 18 - 45
+6,Watermen,,,Drinks,,France,1W,Watermen,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41525,Survey,%,2.6945,age 18 - 45
+20,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42022,Survey,%,4.4038,age 18 - 45
+39,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42239,Survey,%,26.1915,age 18 - 45
+19,Ninjayoga,,,Drinks,,France,1W,Ninjayoga,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42253,Survey,%,0,age 18 - 45
+21,Startmeup,,,Drinks,,France,1W,Startmeup,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,41931,Survey,%,0,age 18 - 45
+39,Imitator,,,Drinks,,France,1W,Imitator,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42974,Survey,%,4.959,age 18 - 45
+8,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42106,Survey,%,4.9215,age 18 - 45
+23,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42085,Survey,%,9.512,age 18 - 45
+21,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42575,Survey,%,9.3585,age 18 - 45
+27,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,41574,Survey,%,9.504,age 18 - 45
+34,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42876,Survey,%,21.1124,age 18 - 45
+17,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42526,Survey,%,19.4298,age 18 - 45
+13,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42911,Survey,%,6.3147,age 18 - 45
+19,Finest,,,Drinks,,France,1W,Finest,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42463,Survey,%,11.5896,age 18 - 45
+31,Gnomes,,,Drinks,,France,1W,Gnomes,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42099,Survey,%,19.646,age 18 - 45
+8,Watermen,,,Drinks,,France,1W,Watermen,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42624,Survey,%,0,age 18 - 45
+23,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42309,Survey,%,1.056,age 18 - 45
+14,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,43177,Survey,%,14.9589,age 18 - 45
+23,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42470,Survey,%,1.1528,age 18 - 45
+27,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,41560,Survey,%,53.1384,age 18 - 45
+37,None of these,,,Drinks,,France,1W,,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41427,Survey,%,1.7679,age 18 - 45
+34,Ninjayoga,,,Drinks,,France,1W,Ninjayoga,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42792,Survey,%,0,age 18 - 45
+31,Other,,,Drinks,,France,1W,,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,43184,Survey,%,9.2204,age 18 - 45
+33,Other,,,Drinks,,France,1W,,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,43058,Survey,%,8.3349,age 18 - 45
+24,Other,,,Drinks,,France,1W,,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42470,Survey,%,8.8788,age 18 - 45
+25,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41777,Survey,%,0,age 18 - 45
+8,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42106,Survey,%,2.89,age 18 - 45
+21,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41903,Survey,%,0,age 18 - 45
+26,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41504,Survey,%,0,age 18 - 45
+29,Bistrot's,,,Drinks,,France,1W,Bistrot's,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42127,Survey,%,13.5897,age 18 - 45
+30,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42862,Survey,%,0.9,age 18 - 45
+32,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42715,Survey,%,0.8245,age 18 - 45
+30,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,43072,Survey,%,0,age 18 - 45
+32,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,43016,Survey,%,0,age 18 - 45
+29,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41959,Survey,%,0,age 18 - 45
+10,None of these,,,Drinks,,France,1W,,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,42078,Survey,%,97,gender male
+11,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,42631,Survey,%,0,gender male
+12,Watermen,,,Drinks,,France,1W,Watermen,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,42988,Survey,%,2.4541,gender male
+4,Northern,,,Drinks,,France,1W,Northern,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,42925,Survey,%,1.5372,gender male
+20,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Imagery (adhoc) - Is for the cool urban people,Imagery (adhoc) ,KTNS,41735,Survey,%,0,gender male
+15,Bistrot's,,,Drinks,,France,1W,Bistrot's,Drinks,Imagery (adhoc) - A brand worth its price,Imagery (adhoc) ,KTNS,42827,Survey,%,44.2728,gender male
+22,Gnomes,,,Drinks,,France,1W,Gnomes,Drinks,Imagery (adhoc) - A brand worth its price,Imagery (adhoc) ,KTNS,42589,Survey,%,14.473,gender male
+16,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Imagery (adhoc) - A brand worth paying more money for,Imagery (adhoc) ,KTNS,42820,Survey,%,5.8473,gender male
+6,Imitator,,,Drinks,,France,1W,Imitator,Drinks,Imagery (adhoc) - A brand worth paying more money for,Imagery (adhoc) ,KTNS,42680,Survey,%,7.0805,gender male
+6,Northern,,,Drinks,,France,1W,Northern,Drinks,Imagery (adhoc) - A brand worth paying more money for,Imagery (adhoc) ,KTNS,42883,Survey,%,0,gender male
+1,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Imagery (adhoc) - A brand worth paying more money for,Imagery (adhoc) ,KTNS,42603,Survey,%,11.609,gender male
+3,None of these,,,Drinks,,France,1W,,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42526,Survey,%,8.2438,gender male
+16,None of these,,,Drinks,,France,1W,,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42099,Survey,%,9.1881,gender male
+16,Startmeup,,,Drinks,,France,1W,Startmeup,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42617,Survey,%,0,gender male
+13,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42904,Survey,%,28.827,gender male
+1,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42554,Survey,%,32.8588,gender male
+9,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42225,Survey,%,0,gender male
+16,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,41791,Survey,%,0,gender male
+17,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,43156,Survey,%,21.217,gender male
+11,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42512,Survey,%,32.9103,gender male
+22,Finest,,,Drinks,,France,1W,Finest,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42918,Survey,%,29.9628,gender male
+17,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,42036,Survey,%,27.0648,gender male
+2,Northern,,,Drinks,,France,1W,Northern,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,41462,Survey,%,25.656,gender male
+4,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Imagery (adhoc) - A brand one can trust,Imagery (adhoc) ,KTNS,43058,Survey,%,36.3872,gender male
+1,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Imagery (adhoc) - Has high quality,Imagery (adhoc) ,KTNS,41609,Survey,%,0,gender male
+1,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Imagery (adhoc) - Has high quality,Imagery (adhoc) ,KTNS,42813,Survey,%,4.4252,gender male
+9,Startmeup,,,Drinks,,France,1W,Startmeup,Drinks,Equity - Equity,Equity ,KTNS,41560,Survey,absolute,0,gender male
+3,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Equity - Equity,Equity ,KTNS,41854,Survey,absolute,0,gender male
+2,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Equity - Equity,Equity ,KTNS,41525,Survey,absolute,0,gender male
+11,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Equity - Equity,Equity ,KTNS,42848,Survey,absolute,13.33,gender male
+9,Monk,,,Drinks,,France,1W,Monk,Drinks,Equity - Equity,Equity ,KTNS,42911,Survey,absolute,51.408,gender male
+3,Monk,,,Drinks,,France,1W,Monk,Drinks,Equity - Equity,Equity ,KTNS,42652,Survey,absolute,63.55,gender male
+11,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Equity - Equity,Equity ,KTNS,42687,Survey,absolute,17.9124,gender male
+27,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Equity - Equity,Equity ,KTNS,41959,Survey,absolute,28.9188,gender male
+7,Finest,,,Drinks,,France,1W,Finest,Drinks,Equity - Equity,Equity ,KTNS,41798,Survey,absolute,35.5308,gender male
+11,Northern,,,Drinks,,France,1W,Northern,Drinks,Equity - Equity,Equity ,KTNS,41588,Survey,absolute,21.8085,gender male
+2,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Equity - Equity,Equity ,KTNS,42358,Survey,absolute,0,gender male
+8,Startmeup,,,Drinks,,France,1W,Startmeup,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41784,Survey,%,0,gender male
+3,Startmeup,,,Drinks,,France,1W,Startmeup,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41483,Survey,%,0,gender male
+8,Other,,,Drinks,,France,1W,,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42421,Survey,%,0,gender male
+4,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42652,Survey,%,0,gender male
+48,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42890,Survey,%,0,gender male
+20,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42337,Survey,%,3.4489,gender male
+8,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42932,Survey,%,0,gender male
+9,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42540,Survey,%,5.7512,gender male
+17,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41903,Survey,%,4.1583,gender male
+2,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42463,Survey,%,1.9292,gender male
+33,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42295,Survey,%,2.5317,gender male
+12,Finest,,,Drinks,,France,1W,Finest,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41441,Survey,%,9.3024,gender male
+3,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42330,Survey,%,3.3196,gender male
+57,Northern,,,Drinks,,France,1W,Northern,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42862,Survey,%,0,gender male
+1,Northern,,,Drinks,,France,1W,Northern,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41637,Survey,%,5.738,gender male
+52,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,42820,Survey,%,0,gender male
+26,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41833,Survey,%,12.6907,gender male
+23,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Communication awareness - Seen ad on tv,Communication awareness ,KTNS,41805,Survey,%,6.872,gender male
+37,None of these,,,Drinks,,France,1W,,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42659,Survey,%,51.7104,gender male
+1,Swisspride,,,Drinks,,France,1W,Swisspride,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,43093,Survey,%,0,gender male
+19,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,41630,Survey,%,0.7068,gender male
+19,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42155,Survey,%,4.6576,gender male
+16,Bistrot's,,,Drinks,,France,1W,Bistrot's,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42561,Survey,%,4.5198,gender male
+19,Bistrot's,,,Drinks,,France,1W,Bistrot's,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,41910,Survey,%,10.013,gender male
+34,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42939,Survey,%,11.799,gender male
+25,Black & Gold,,,Drinks,,France,1W,Black & Gold,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,42974,Survey,%,0.624,gender male
+24,Watermen,,,Drinks,,France,1W,Watermen,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,41756,Survey,%,0,gender male
+6,Watermen,,,Drinks,,France,1W,Watermen,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,41525,Survey,%,3.1,gender male
+7,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,41567,Survey,%,9.1083,gender male
+2,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Communication awareness - Advertising awareness,Communication awareness ,KTNS,43093,Survey,%,0,gender male
+33,None of these,,,Drinks,,France,1W,,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42890,Survey,%,0,gender male
+37,None of these,,,Drinks,,France,1W,,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41707,Survey,%,0,gender male
+17,Ninjayoga,,,Drinks,,France,1W,Ninjayoga,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42281,Survey,%,0,gender male
+12,Ninjayoga,,,Drinks,,France,1W,Ninjayoga,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42050,Survey,%,0,gender male
+36,Swisspride,,,Drinks,,France,1W,Swisspride,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42022,Survey,%,0,gender male
+12,Swisspride,,,Drinks,,France,1W,Swisspride,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41672,Survey,%,0,gender male
+1,Imitator,,,Drinks,,France,1W,Imitator,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42484,Survey,%,1.208,gender male
+10,Other,,,Drinks,,France,1W,,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42869,Survey,%,7.6533,gender male
+3,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,43072,Survey,%,0.4576,gender male
+5,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41581,Survey,%,0,gender male
+47,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42519,Survey,%,2.6967,gender male
+11,Crater,,,Drinks,,France,1W,Crater,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41616,Survey,%,1.7512,gender male
+33,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42834,Survey,%,0.3854,gender male
+2,Finest,,,Drinks,,France,1W,Finest,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,43170,Survey,%,6.2745,gender male
+33,Gnomes,,,Drinks,,France,1W,Gnomes,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41791,Survey,%,10.6875,gender male
+19,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42421,Survey,%,0,gender male
+10,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,42827,Survey,%,2.4795,gender male
+17,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Attitudinal   preference - Preferred brand,Attitudinal   preference ,KTNS,41672,Survey,%,3.9216,gender male
+4,None of these,,,Drinks,,France,1W,,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41637,Survey,%,0,gender male
+8,Swisspride,,,Drinks,,France,1W,Swisspride,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,43023,Survey,%,0,gender male
+23,Imitator,,,Drinks,,France,1W,Imitator,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41889,Survey,%,0,gender male
+29,Other,,,Drinks,,France,1W,,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,42463,Survey,%,1.2665,gender male
+23,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41994,Survey,%,0,gender male
+2,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41882,Survey,%,0,gender male
+21,Crater,,,Drinks,,France,1W,Crater,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41581,Survey,%,0,gender male
+18,Bistrot's,,,Drinks,,France,1W,Bistrot's,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,42421,Survey,%,7.923,gender male
+8,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41994,Survey,%,0.8924,gender male
+24,Belfast,,,Drinks,,France,1W,Belfast,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41441,Survey,%,1.3776,gender male
+3,Northern,,,Drinks,,France,1W,Northern,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,43009,Survey,%,0,gender male
+18,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41945,Survey,%,0,gender male
+25,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41875,Survey,%,1.1125,gender male
+30,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41833,Survey,%,0,gender male
+22,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Attitudinal   preference - Brand drink most often,Attitudinal   preference ,KTNS,41728,Survey,%,0,gender male
+2,Ninjayoga,,,Drinks,,France,1W,Ninjayoga,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,41497,Survey,%,0,gender male
+11,Monk,,,Drinks,,France,1W,Monk,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,41441,Survey,%,13.311,gender male
+3,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,43184,Survey,%,16.5965,gender male
+12,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,43079,Survey,%,7.6992,gender male
+3,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,41581,Survey,%,2.4638,gender male
+65,Finest,,,Drinks,,France,1W,Finest,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,42715,Survey,%,10.956,gender male
+10,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,43163,Survey,%,7.7924,gender male
+26,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Declared use   purchase - Try brand more often,Declared use   purchase ,KTNS,41777,Survey,%,6.528,gender male
+13,Brightsunny,,,Drinks,,France,1W,Brightsunny,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42043,Survey,%,16.3449,gender male
+22,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42344,Survey,%,6.6216,gender male
+7,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,41854,Survey,%,4.8918,gender male
+17,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Declared use   purchase - Rejector,Declared use   purchase ,KTNS,42442,Survey,%,19.6768,gender male
+47,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,43086,Survey,%,1.691,gender male
+17,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41910,Survey,%,2.2352,gender male
+37,Losingfaith,,,Drinks,,France,1W,Losingfaith,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42414,Survey,%,6.4337,gender male
+45,Gnomes,,,Drinks,,France,1W,Gnomes,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,43128,Survey,%,13.005,gender male
+10,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42386,Survey,%,0,gender male
+11,Moonlight,,,Drinks,,France,1W,Moonlight,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42652,Survey,%,5.4027,gender male
+17,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42134,Survey,%,7.125,gender male
+16,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,42036,Survey,%,0,gender male
+24,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Declared use   purchase - Regular User,Declared use   purchase ,KTNS,41574,Survey,%,1.0695,gender male
+37,Other,,,Drinks,,France,1W,,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42988,Survey,%,50.264,gender male
+14,Van Gogh,,,Drinks,,France,1W,Van Gogh,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,43177,Survey,%,6.0864,gender male
+17,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,43163,Survey,%,0.7128,gender male
+23,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42792,Survey,%,5.9719,gender male
+16,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42554,Survey,%,4.6752,gender male
+22,Mixfun,,,Drinks,,France,1W,Mixfun,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42659,Survey,%,0,gender male
+58,Crater,,,Drinks,,France,1W,Crater,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,41616,Survey,%,2.9736,gender male
+40,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42715,Survey,%,5.4405,gender male
+17,Dogsbrew,,,Drinks,,France,1W,Dogsbrew,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42414,Survey,%,4.644,gender male
+26,Finest,,,Drinks,,France,1W,Finest,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42701,Survey,%,7.6804,gender male
+9,Watermen,,,Drinks,,France,1W,Watermen,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42981,Survey,%,4.0506,gender male
+15,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42148,Survey,%,21.1464,gender male
+33,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,41847,Survey,%,7.3959,gender male
+10,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,41427,Survey,%,0,gender male
+6,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42309,Survey,%,11.15,gender male
+1,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42722,Survey,%,0,gender male
+9,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,42673,Survey,%,6.2914,gender male
+21,Celestial,,,Drinks,,France,1W,Celestial,Drinks,Brand Awareness - Spontaneous Awareness,Brand Awareness ,KTNS,41672,Survey,%,67.1066,gender male
+32,Startmeup,,,Drinks,,France,1W,Startmeup,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42876,Survey,%,0,gender male
+35,Other,,,Drinks,,France,1W,,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41616,Survey,%,9.4656,gender male
+2,Monk,,,Drinks,,France,1W,Monk,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42169,Survey,%,15.834,gender male
+17,Monk,,,Drinks,,France,1W,Monk,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41833,Survey,%,16.732,gender male
+14,Monk,,,Drinks,,France,1W,Monk,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41609,Survey,%,14.0448,gender male
+5,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41945,Survey,%,0,gender male
+6,Scanbest,,,Drinks,,France,1W,Scanbest,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41882,Survey,%,0,gender male
+11,Hyperliquid,,,Drinks,,France,1W,Hyperliquid,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42449,Survey,%,12.2848,gender male
+8,Finest,,,Drinks,,France,1W,Finest,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42568,Survey,%,1.927,gender male
+18,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42218,Survey,%,4.9068,gender male
+22,Crowdchoice,,,Drinks,,France,1W,Crowdchoice,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42029,Survey,%,4.0992,gender male
+53,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41630,Survey,%,0,gender male
+3,The Butcher,,,Drinks,,France,1W,The Butcher,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41567,Survey,%,0,gender male
+22,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42428,Survey,%,1.3485,gender male
+15,Oldstyle,,,Drinks,,France,1W,Oldstyle,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,41546,Survey,%,1.804,gender male
+7,Catch 22,,,Drinks,,France,1W,Catch 22,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42659,Survey,%,0,gender male
+10,Harry's Brew,,,Drinks,,France,1W,Harry's Brew,Drinks,Brand Awareness - Top of Mind Awareness,Brand Awareness ,KTNS,42757,Survey,%,0,gender male
+0,Dogsbrew,competitor,off-trade,Drinks,FR,,4W,Dogsbrew,Drinks,sales value,sales,KWP,42757,Sales,EUR,1236724.562,Total
+0,Watermen,client,off-trade,Drinks,FR,,4W,Watermen,Drinks,penetration ,sales,KWP,42841,Sales,%,0.550595621,Total
+0,Watermen,client,off-trade,Drinks,FR,,4W,Watermen,Drinks,penetration ,sales,KWP,42253,Sales,%,0.495300398,Total
+0,Bistrot_s,competitor,off-trade,Drinks,FR,,4W,Bistrot's,Drinks,sales volume,sales,KWP,42281,Sales,L,6374366.179,Total
+0,Crowdchoice,client,off-trade,Drinks,FR,,52W,Crowdchoice,Drinks,average price,sales,KWP,42897,Sales,EUR/litre,3.494513869,Total
+0,Scansbest,competitor,off-trade,Drinks,FR,,52W,Scanbest,Drinks,sales value,sales,KWP,42897,Sales,EUR,13044470.73,Total
+0,Startmeup,client,off-trade,Drinks,FR,,4W,Startmeup,Drinks,sales volume,sales,KWP,42897,Sales,L,175179.6318,Total
+0,Ninjayoga,competitor,off-trade,Drinks,FR,,4W,Ninjayoga,Drinks,penetration ,sales,KWP,43093,Sales,%,0.726470668,Total
+0,Scansbest,competitor,total,Drinks,FR,,1M,Scanbest,Drinks,adspend,Media,KM,42947,Media,EUR,109.708,Total
+0,Hyperliquid,competitor,print,Drinks,FR,,1M,Hyperliquid,Drinks,adspend,Media,KM,42825,Media,EUR,104.3,Total
+0,Oldstyle,client,ooH,Drinks,FR,,1M,Oldstyle,Drinks,adspend,Media,KM,42582,Media,EUR,0,Total
+0,Imitator,competitor,total,Drinks,FR,,1M,Imitator,Drinks,adspend,Media,KM,42490,Media,EUR,0,Total
+0,Swisspride,client,print,Drinks,FR,,1M,Swisspride,Drinks,adspend,Media,KM,42460,Media,EUR,7.1,Total
+0,Watermen,client,digital,Drinks,FR,,1M,Watermen,Drinks,adspend,Media,KM,42308,Media,EUR,0,Total
+0,Losingfaith,client,total,Drinks,FR,,1M,Losingfaith,Drinks,adspend,Media,KM,41882,Media,EUR,2687.408,Total
+0,Monk,competitor,total,Drinks,FR,,1M,Monk,Drinks,adspend,Media,KM,41608,Media,EUR,9.55,Total
+0,Oldstyle,client,print,Drinks,FR,,1M,Oldstyle,Drinks,adspend,Media,KM,41425,Media,EUR,145.71,Total
+0,,category total,print,Drinks,FR,,1M,,Drinks,adspend,Media,KM,41274,Media,EUR,568.844,Total
+0,Northern,competitor,radio,Drinks,FR,,1M,Northern,Drinks,adspend,Media,KM,41274,Media,EUR,0,Total
+0,Mixfun,competitor,radio,Drinks,FR,,1M,Mixfun,Drinks,adspend,Media,KM,41243,Media,EUR,0,Total
+0,,category total,radio,Drinks,FR,,1M,,Drinks,adspend,Media,KM,41090,Media,EUR,4280.415,Total
+0,Oldstyle,client,digital,Drinks,FR,,1M,Oldstyle,Drinks,adspend,Media,KM,40999,Media,EUR,0,Total
+0,Losingfaith,client,total,Drinks,FR,,1M,Losingfaith,Drinks,adspend,Media,KM,40816,Media,EUR,1480.25,Total
+0,Northern,competitor,ooH,Drinks,FR,,1M,Northern,Drinks,adspend,Media,KM,40482,Media,EUR,0,Total
+0,,category total,radio,Drinks,FR,,1M,,Drinks,adspend,Media,KM,40390,Media,EUR,4759.145,Total
+0,Dogsbrew,competitor,radio,Drinks,FR,,1M,Dogsbrew,Drinks,adspend,Media,KM,40298,Media,EUR,0,Total
+0,Watermen,client,print,Drinks,FR,,1M,Watermen,Drinks,adspend,Media,KM,40237,Media,EUR,0,Total
+0,Brightsunny,competitor,total,Drinks,FR,,1M,Brightsunny,Drinks,adspend,Media,KM,40237,Media,EUR,0,Total
+0,Bistrot_s,competitor,print,Drinks,FR,,1M,Bistrot's,Drinks,adspend,Media,KM,40025,Media,EUR,430.945,Total
+0,,category total,print,Drinks,FR,,1M,,Drinks,adspend,Media,KM,39964,Media,EUR,3567.198,Total
+0,Finest,competitor,radio,Drinks,FR,,1M,Finest,Drinks,adspend,Media,KM,39903,Media,EUR,0,Total
+0,Scansbest,competitor,digital,Drinks,FR,,1M,Scanbest,Drinks,adspend,Media,KM,39903,Media,EUR,0,Total

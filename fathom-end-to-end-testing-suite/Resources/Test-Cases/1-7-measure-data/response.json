@@ -1,0 +1,174 @@
+{
+  "resultType": "Sql",
+  "runStatus": "Complete",
+  "metaData": {
+    "CrossVariables": [
+      {
+        "Namespace": "rio.cm.measures",
+        "VariableName": "wave",
+        "Label": "Wave",
+        "ColumnName": "wave",
+        "LabelColumnName": "Label_wave"
+      },
+      {
+        "Namespace": "rio.cm.measures",
+        "VariableName": "cm_som5",
+        "Label": "States of Mind",
+        "ColumnName": "cm_som5",
+        "LabelColumnName": "Label_cm_som5"
+      }
+    ],
+    "MeasureColumns": [
+      {
+        "Id": "rio_cm_measures.incidence_cm_som5",
+        "WeightId": null,
+        "MeasureCol": "rio_cm_measures_incidence_cm_som5_unwtd_0",
+        "NumeratorCol": "rio_cm_measures_incidence_cm_som5_num_unwtd_0",
+        "DenominatorCol": "rio_cm_measures_incidence_cm_som5_den_unwtd_0",
+        "CountCol": null,
+        "MeasureLabel": "rio_cm_measures.incidence_cm_som5",
+        "NumeratorLabel": "rio_cm_measures.incidence_cm_som5__numerator",
+        "DenominatorLabel": "rio_cm_measures.incidence_cm_som5__denominator",
+        "CountLabel": null
+      }
+    ],
+    "Banners": []
+  },
+  "data": [
+    {
+      "wave": 1,
+      "Label_wave": "Jan 2017",
+      "cm_som5": 1,
+      "Label_cm_som5": "Exclusive Mind",
+      "rio_cm_measures.incidence_cm_som5": 7.4074074074074066,
+      "rio_cm_measures.incidence_cm_som5__numerator": 16,
+      "rio_cm_measures.incidence_cm_som5__denominator": 216
+    },
+    {
+      "wave": 1,
+      "Label_wave": "Jan 2017",
+      "cm_som5": 2,
+      "Label_cm_som5": "Routine Mind",
+      "rio_cm_measures.incidence_cm_som5": 2.314814814814815,
+      "rio_cm_measures.incidence_cm_som5__numerator": 5,
+      "rio_cm_measures.incidence_cm_som5__denominator": 216
+    },
+    {
+      "wave": 1,
+      "Label_wave": "Jan 2017",
+      "cm_som5": 3,
+      "Label_cm_som5": "Divided Mind",
+      "rio_cm_measures.incidence_cm_som5": 66.66666666666666,
+      "rio_cm_measures.incidence_cm_som5__numerator": 144,
+      "rio_cm_measures.incidence_cm_som5__denominator": 216
+    },
+    {
+      "wave": 1,
+      "Label_wave": "Jan 2017",
+      "cm_som5": 4,
+      "Label_cm_som5": "Indifferent Mind",
+      "rio_cm_measures.incidence_cm_som5": 19.90740740740741,
+      "rio_cm_measures.incidence_cm_som5__numerator": 43,
+      "rio_cm_measures.incidence_cm_som5__denominator": 216
+    },
+    {
+      "wave": 1,
+      "Label_wave": "Jan 2017",
+      "cm_som5": 5,
+      "Label_cm_som5": "Frustrated Mind",
+      "rio_cm_measures.incidence_cm_som5": 3.7037037037037033,
+      "rio_cm_measures.incidence_cm_som5__numerator": 8,
+      "rio_cm_measures.incidence_cm_som5__denominator": 216
+    },
+    {
+      "wave": 2,
+      "Label_wave": "Feb 2017",
+      "cm_som5": 1,
+      "Label_cm_som5": "Exclusive Mind",
+      "rio_cm_measures.incidence_cm_som5": 4.484304932735426,
+      "rio_cm_measures.incidence_cm_som5__numerator": 10,
+      "rio_cm_measures.incidence_cm_som5__denominator": 223
+    },
+    {
+      "wave": 2,
+      "Label_wave": "Feb 2017",
+      "cm_som5": 2,
+      "Label_cm_som5": "Routine Mind",
+      "rio_cm_measures.incidence_cm_som5": 4.0358744394618835,
+      "rio_cm_measures.incidence_cm_som5__numerator": 9,
+      "rio_cm_measures.incidence_cm_som5__denominator": 223
+    },
+    {
+      "wave": 2,
+      "Label_wave": "Feb 2017",
+      "cm_som5": 3,
+      "Label_cm_som5": "Divided Mind",
+      "rio_cm_measures.incidence_cm_som5": 70.85201793721974,
+      "rio_cm_measures.incidence_cm_som5__numerator": 158,
+      "rio_cm_measures.incidence_cm_som5__denominator": 223
+    },
+    {
+      "wave": 2,
+      "Label_wave": "Feb 2017",
+      "cm_som5": 4,
+      "Label_cm_som5": "Indifferent Mind",
+      "rio_cm_measures.incidence_cm_som5": 18.83408071748879,
+      "rio_cm_measures.incidence_cm_som5__numerator": 42,
+      "rio_cm_measures.incidence_cm_som5__denominator": 223
+    },
+    {
+      "wave": 2,
+      "Label_wave": "Feb 2017",
+      "cm_som5": 5,
+      "Label_cm_som5": "Frustrated Mind",
+      "rio_cm_measures.incidence_cm_som5": 1.7937219730941705,
+      "rio_cm_measures.incidence_cm_som5__numerator": 4,
+      "rio_cm_measures.incidence_cm_som5__denominator": 223
+    },
+    {
+      "wave": 3,
+      "Label_wave": "Mar 2017",
+      "cm_som5": 1,
+      "Label_cm_som5": "Exclusive Mind",
+      "rio_cm_measures.incidence_cm_som5": 4.2682926829268295,
+      "rio_cm_measures.incidence_cm_som5__numerator": 7,
+      "rio_cm_measures.incidence_cm_som5__denominator": 164
+    },
+    {
+      "wave": 3,
+      "Label_wave": "Mar 2017",
+      "cm_som5": 2,
+      "Label_cm_som5": "Routine Mind",
+      "rio_cm_measures.incidence_cm_som5": 2.4390243902439024,
+      "rio_cm_measures.incidence_cm_som5__numerator": 4,
+      "rio_cm_measures.incidence_cm_som5__denominator": 164
+    },
+    {
+      "wave": 3,
+      "Label_wave": "Mar 2017",
+      "cm_som5": 3,
+      "Label_cm_som5": "Divided Mind",
+      "rio_cm_measures.incidence_cm_som5": 76.82926829268293,
+      "rio_cm_measures.incidence_cm_som5__numerator": 126,
+      "rio_cm_measures.incidence_cm_som5__denominator": 164
+    },
+    {
+      "wave": 3,
+      "Label_wave": "Mar 2017",
+      "cm_som5": 4,
+      "Label_cm_som5": "Indifferent Mind",
+      "rio_cm_measures.incidence_cm_som5": 15.24390243902439,
+      "rio_cm_measures.incidence_cm_som5__numerator": 25,
+      "rio_cm_measures.incidence_cm_som5__denominator": 164
+    },
+    {
+      "wave": 3,
+      "Label_wave": "Mar 2017",
+      "cm_som5": 5,
+      "Label_cm_som5": "Frustrated Mind",
+      "rio_cm_measures.incidence_cm_som5": 1.2195121951219512,
+      "rio_cm_measures.incidence_cm_som5__numerator": 2,
+      "rio_cm_measures.incidence_cm_som5__denominator": 164
+    }
+  ]
+}

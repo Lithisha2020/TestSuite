@@ -1,0 +1,67 @@
+input_key,input_source,type,from_mapping_file,input_value,mapped_value
+16,current,attribute_information,No,Uses all-natural ingredients,Uses all-natural ingredients
+20,current,attribute_information,No,Is a brand that cares for animal welfare,Is a brand that cares for animal welfare
+2,current,brand_information,No,Brand B,Brand B
+3,current,brand_information,No,Brand C,Brand C
+6,current,marketfactor_information,No,Comes in a range of convenient packaging,Comes in a range of convenient packaging
+7,current,attribute_information,No,Has products with an authentic taste,Has products with an authentic taste
+13,current,attribute_information,No,Is tasty and full of flavour,Is tasty and full of flavour
+9,current,attribute_information,No,Is an everyday brand,Is an everyday brand
+11,current,brand_information,No,Brand K,Brand K
+10,current,advt_information,No,Brand E-Print,Brand E-Print
+11,current,attribute_information,No,Is a trusted brand,Is a trusted brand
+5,current,advt_information,No,Brand B-Brand B,Brand B-Brand B
+8,current,marketfactor_information,No,Always has the most freshly made products,Always has the most freshly made products
+18,current,brand_information,No,Brand R,Brand R
+19,current,attribute_information,No,Inspires me to eat/ prepare meals in different ways,Inspires me to eat/ prepare meals in different ways
+10,current,attribute_information,No,I would be happy to serve it to my family,I would be happy to serve it to my family
+12,current,attribute_information,No,Has good products for entertaining/ socialising,Has good products for entertaining/ socialising
+3,current,advt_information,No,Brand A-TVC2 Friends,Brand A-TVC2 Friends
+1,current,attribute_information,No,Is a premium brand,Is a premium brand
+4,current,attribute_information,No,Is a traditional brand,Is a traditional brand
+10,current,brand_information,No,Brand J,Brand J
+16,current,brand_information,No,Brand P,Brand P
+5,current,marketfactor_information,No,Packaging is the most appealing & attention-grabbing,Packaging is the most appealing & attention-grabbing
+1,current,marketfactor_information,No,I see or hear about it more than any others,I see or hear about it more than any others
+1,current,brand_information,No,Brand A,Brand A
+9,current,advt_information,No,Brand W-Print,Brand W-Print
+8,current,advt_information,No,Brand D-Print,Brand D-Print
+7,current,marketfactor_information,No,Is the most affordable,Is the most affordable
+6,current,brand_information,No,Brand F,Brand F
+4,current,brand_information,No,Brand D,Brand D
+3,current,attribute_information,No,Offers products that are better for me,Offers products that are better for me
+18,current,attribute_information,No,Is an exciting brand,Is an exciting brand
+9,current,marketfactor_information,No,Comes in all the pack sizes and variants I need,Comes in all the pack sizes and variants I need
+12,current,brand_information,No,Brand L,Brand L
+22,current,brand_information,No,Brand V,Brand V
+15,current,attribute_information,No,Has European flavours and connections,Has European flavours and connections
+10,current,marketfactor_information,No,Has the widest range/variety of flavours,Has the widest range/variety of flavours
+14,current,attribute_information,No,Has less processed products,Has less processed products
+17,current,brand_information,No,Brand Q,Brand Q
+1,current,advt_information,No,Brand A-TVC,Brand A-TVC
+11,current,marketfactor_information,No,Is most preferred by my family,Is most preferred by my family
+13,current,brand_information,No,Brand M,Brand M
+6,current,advt_information,No,Brand B-Outdoor,Brand B-Outdoor
+8,current,brand_information,No,Brand H,Brand H
+5,current,brand_information,No,Brand E,Brand E
+17,current,attribute_information,No,Has the freshest products,Has the freshest products
+5,current,attribute_information,No,Is a brand that makes my life easier,Is a brand that makes my life easier
+7,current,brand_information,No,Brand G,Brand G
+19,current,brand_information,No,Brand S,Brand S
+4,current,marketfactor_information,No,Is the most visible brand,Is the most visible brand
+15,current,brand_information,No,Brand O,Brand O
+9,current,brand_information,No,Brand I,Brand I
+3,current,marketfactor_information,No,Is the leading brand,Is the leading brand
+8,current,attribute_information,No,Is all Australian,Is all Australian
+2,current,advt_information,No,Brand A-TVC1 Family,Brand A-TVC1 Family
+21,current,attribute_information,No,Has a range I am interested in exploring,Has a range I am interested in exploring
+7,current,advt_information,No,Brand E-TVC,Brand E-TVC
+4,current,advt_information,No,Brand A-Outdoor/Online,Brand A-Outdoor/Online
+21,current,brand_information,No,Brand U,Brand U
+12,current,marketfactor_information,No,Has a range of products that I can easily identify on shelf,Has a range of products that I can easily identify on shelf
+14,current,brand_information,No,Brand N,Brand N
+6,current,attribute_information,No,Has constantly high quality products,Has constantly high quality products
+20,current,brand_information,No,Brand T,Brand T
+2,current,marketfactor_information,No,Always available where I normally shop,Always available where I normally shop
+23,current,brand_information,No,Brand W,Brand W
+2,current,attribute_information,No,Is an innovative brand,Is an innovative brand

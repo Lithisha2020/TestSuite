@@ -1,0 +1,59 @@
+[
+  {
+    "Namespace": "",
+    "Properties": {
+      "Id": 7,
+      "Type": "General",
+      "Name": "Blank Spaces Check",
+      "SourceSpecification": "{\r\n  \"SourceType\": 0,\r\n  \"NamespacePattern\": null,\r\n  \"VariableNamePattern\": null,\r\n  \"SourceFilterVariableName\": null,\r\n  \"VariableList\": [\r\n    \"all.normal.brand\",\r\n    \"all.normal.units\",\r\n    \"all.normal.metric\",\r\n    \"all.normal.metricgroup\",\r\n    \"all.normal.sampledetails\",\r\n    \"all.normal.context\",\r\n    \"all.normal.countryname\",\r\n    \"all.normal.opbrand\"\r\n  ],\r\n  \"SubstitutionName\": null,\r\n  \"PrimaryVariableName\": null,\r\n  \"VariableValues\": null,\r\n  \"HideUnusableVariables\": false,\r\n  \"ExclusionList\": null\r\n}",
+      "TargetSpecification": "{\r\n  \"Namespace\": \"{NameSpace}.spaces\",\r\n  \"VariableName\": \"{VariableName}\",\r\n  \"Label\": \"{Label}\",\r\n  \"Options\": null\r\n}",
+      "TransformationDef": "{\r\n  \"Expression\": \"(1).where(len(${0}) <> len(trim(${0})));\\r\\n\",\r\n  \"KeysToRetain\": [],\r\n  \"GroupVars\": \"\",\r\n  \"Aggregate\": false,\r\n  \"PreCondition\": \"\",\r\n  \"PostCondition\": \"\",\r\n  \"SameLabelSetAsSource\": false,\r\n  \"IgnoreDefaultLabelSet\": false\r\n}",
+      "Sequence": "0",
+      "Active": true
+    },
+    "Name": "Blank Spaces Check",
+    "Label": null,
+    "ObjectType": 3,
+    "Tags": []
+  },
+  {
+    "Namespace": "",
+    "Properties": {
+      "Id": 8,
+      "Type": "General",
+      "Name": "Blank Spaces Count",
+      "SourceSpecification": "{\r\n  \"SourceType\": 0,\r\n  \"NamespacePattern\": null,\r\n  \"VariableNamePattern\": null,\r\n  \"SourceFilterVariableName\": null,\r\n  \"VariableList\": [\r\n    \"all.normal.spaces.brand\",\r\n    \"all.normal.spaces.context\",\r\n    \"all.normal.spaces.countryname\",\r\n    \"all.normal.spaces.metric\",\r\n    \"all.normal.spaces.metricgroup\",\r\n    \"all.normal.spaces.opbrand\",\r\n    \"all.normal.spaces.sampledetails\",\r\n    \"all.normal.spaces.units\"\r\n  ],\r\n  \"SubstitutionName\": null,\r\n  \"PrimaryVariableName\": null,\r\n  \"VariableValues\": null,\r\n  \"HideUnusableVariables\": false,\r\n  \"ExclusionList\": null\r\n}",
+      "TargetSpecification": "{\r\n  \"Namespace\": \"{NameSpace}.count\",\r\n  \"VariableName\": \"{VariableName}\",\r\n  \"Label\": \"{Label}\",\r\n  \"Options\": null\r\n}",
+      "TransformationDef": "{\r\n  \"Expression\": \"(${0}).Count(keys:[]);\",\r\n  \"KeysToRetain\": [],\r\n  \"GroupVars\": \"\",\r\n  \"Aggregate\": false,\r\n  \"PreCondition\": \"\",\r\n  \"PostCondition\": \"\",\r\n  \"SameLabelSetAsSource\": false,\r\n  \"IgnoreDefaultLabelSet\": false\r\n}",
+      "Sequence": "0",
+      "Active": true
+    },
+    "Name": "Blank Spaces Count",
+    "Label": null,
+    "ObjectType": 3,
+    "Tags": []
+  },
+  {
+    "Namespace": "all.normal.spaces.count",
+    "Properties": {
+      "NameSpace": "all.normal.spaces.count",
+      "LabelSet": "",
+      "Keys": [],
+      "Expression": "$all = var_union($all.normal.spaces.count.brand,$all.normal.spaces.count.context,$all.normal.spaces.count.countryname,$all.normal.spaces.count.metric,$all.normal.spaces.count.metricgroup,$all.normal.spaces.count.opbrand,$all.normal.spaces.count.sampledetails,$all.normal.spaces.count.units, key:$icount,ignore_unusable:true);\r\n($all).sum(keys:[]);\r\n",
+      "RecodeSet": "",
+      "PreCondition": "",
+      "PostCondition": "",
+      "Aggregate": false,
+      "Source": "",
+      "IsFinal": false,
+      "IsSubquery": false,
+      "IsIsolate": false,
+      "IsSuper": false,
+      "Options": null
+    },
+    "Name": "total",
+    "Label": "total",
+    "ObjectType": 2,
+    "Tags": []
+  }
+]

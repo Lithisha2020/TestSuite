@@ -1,0 +1,11 @@
+{
+  
+  "variables": [
+    {
+     "variableName":"rio.cm.measures.au2",
+       "queryType": "primary",
+      "transformType": "normal"
+     
+    }
+    ]
+}

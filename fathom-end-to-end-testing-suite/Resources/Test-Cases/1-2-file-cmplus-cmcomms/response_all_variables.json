@@ -1,0 +1,4850 @@
+[
+  {
+    "name": "datamap.current.from_mapping_file",
+    "label": "From Mapping File (current)"
+  },
+  {
+    "name": "datamap.current.input_key",
+    "label": "Input Key (current)"
+  },
+  {
+    "name": "datamap.current.input_source",
+    "label": "Input Source (current)"
+  },
+  {
+    "name": "datamap.current.input_value",
+    "label": "Input Value (current)"
+  },
+  {
+    "name": "datamap.current.mapped_value",
+    "label": "Mapped Value (current)"
+  },
+  {
+    "name": "datamap.current.type",
+    "label": "Value Type (current)"
+  },
+  {
+    "name": "datamap.export.internal.current_mapped_value",
+    "label": "Current mapped value"
+  },
+  {
+    "name": "datamap.internal.current_version",
+    "label": "Find the latest uploaded datamap version"
+  },
+  {
+    "name": "datamap.sources.cm_attribute_information",
+    "label": "CM AttributeInformation"
+  },
+  {
+    "name": "datamap.sources.cm_brand_information",
+    "label": "CM Brand Information"
+  },
+  {
+    "name": "datamap.sources.cm_marketfactor_information",
+    "label": "CM Market Factor Information"
+  },
+  {
+    "name": "datamap.sources.comms_advt_information",
+    "label": "Comms Advt Information"
+  },
+  {
+    "name": "datamap.sources.comms_brand_information",
+    "label": "Comms Brand Information"
+  },
+  {
+    "name": "project.data_sources.valid",
+    "label": "Valid data source flag"
+  },
+  {
+    "name": "project.data_sources.active",
+    "label": "Label for - active"
+  },
+  {
+    "name": "project.data_sources.datasource",
+    "label": "Label for - datasource"
+  },
+  {
+    "name": "project.data_sources.filename",
+    "label": "Label for - filename"
+  },
+  {
+    "name": "project.data_sources.loadtype",
+    "label": "Label for - loadtype"
+  },
+  {
+    "name": "project.data_sources.updatetime",
+    "label": "Label for - updatetime"
+  },
+  {
+    "name": "qc.results.input.error_count",
+    "label": "QC errror counts for input data"
+  },
+  {
+    "name": "qc.results.output.error_count",
+    "label": "QC errror counts for output data"
+  },
+  {
+    "name": "qc.rules.input.invalid_cm_respondent_serial",
+    "label": "Input Data: Flag invalid cm respondent serial"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_au2",
+    "label": "Input Data: Flag invalid  required cm au2"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_au3a",
+    "label": "Input Data: Flag invalid  required cm au3a"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_equity_gap",
+    "label": "Input Data: Flag invalid cm required cm equity_gap"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_evoked_set",
+    "label": "Input Data: Flag invalid  required cm evoked_set"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_market_share",
+    "label": "Input Data: Flag invalid cm required cm market_share"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_power_in_the_mind",
+    "label": "Input Data: Flag invalid cm required cm power_in_the_mind"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_psf",
+    "label": "Input Data: Flag invalid  required cm psf"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_respondent_serial",
+    "label": "Input Data: Flag invalid cm required respondent serial"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_segs_grouped",
+    "label": "Input Data: Flag invalid  required cm segs_grouped"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_segs_ungrouped",
+    "label": "Input Data: Flag invalid  required cm segs_ungrouped"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_cm_segsum",
+    "label": "Input Data: Flag invalid  required cm segsum"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_comms_ad_affective",
+    "label": "Input Data: Flag invalid  required comms ad affective"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_comms_ad_novelty",
+    "label": "Input Data: Flag invalid  required comms ad novelty"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_comms_ad_relevance",
+    "label": "Input Data: Flag invalid  required comms ad relevance"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_comms_ad1a",
+    "label": "Input Data: Flag invalid  required comms ad1a"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_comms_ad1b",
+    "label": "Input Data: Flag invalid  required comms ad1b"
+  },
+  {
+    "name": "qc.rules.input.invalid_required_comms_ad1c",
+    "label": "Input Data: Flag invalid  required comms ad1c"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_age",
+    "label": "Output Data: Flag invalid cm_age"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_attr_imp",
+    "label": "Output Data: Flag invalid cm_attr_imp"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_attrshr",
+    "label": "Output Data: Flag invalid cm_attrshr"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_attrshr_tanimoto",
+    "label": "Output Data: Flag invalid cm_attrshr_tanimoto"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_au1a",
+    "label": "Output Data: Flag invalid cm au1a"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_au2",
+    "label": "Output Data: Flag invalid cm au2"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_au3a",
+    "label": "Output Data: Flag invalid cm au3a"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_au3c1",
+    "label": "Output Data: Flag invalid cm au3c1"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_au3c2",
+    "label": "Output Data: Flag invalid cm au3c2"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_au3c3",
+    "label": "Output Data: Flag invalid cm au3c3"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_cm_som5",
+    "label": "Output Data: Flag invalid cm cm_som5"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_cm_som6",
+    "label": "Output Data: Flag invalid cm cm_som6"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_cm1",
+    "label": "Output Data: Flag invalid cm_cm1"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_cm2",
+    "label": "Output Data: Flag invalid cm cm2"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_cm4",
+    "label": "Output Data: Flag invalid cm cm4"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_cm4b",
+    "label": "Output Data: Flag invalid cm cm4b"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_count_legacy_respondent_serial",
+    "label": "Output Data: Flag invalid cm count legacy respondent serial"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_count_raw_respondent_serial",
+    "label": "Output Data: Flag invalid cm count raw respondent serial"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_data_segsum",
+    "label": "Output Data: Flag invalid cm data segsum"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_equity_gap",
+    "label": "Output Data: Flag invalid cm equity_gap"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_evoked_set",
+    "label": "Output Data: Flag invalid cm evoked_set"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_gender",
+    "label": "Output Data: Flag invalid cm_gender"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_imagery",
+    "label": "Output Data: Flag invalid cm_imagery"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_income",
+    "label": "Output Data: Flag invalid cm_income"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_market_factors",
+    "label": "Output Data: Flag invalid cm_market_factors"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_market_share",
+    "label": "Output Data: Flag invalid cm data market_share"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_power_in_the_mind",
+    "label": "Output Data: Flag invalid cm data power_in_the_mind"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_psf",
+    "label": "Output Data: Flag invalid psf"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_psf_mf_gain",
+    "label": "Output Data: Flag invalid cm_psf_mf_gain"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_psf_mf_gain_unmeasured",
+    "label": "Output Data: Flag invalid cm_psf_mf_gain_unmeasured"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_psf_mf_loss",
+    "label": "Output Data: Flag invalid cm_psf_mf_loss"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_psf_mf_loss_unmeasured",
+    "label": "Output Data: Flag invalid cm_psf_mf_loss_unmeasured"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_segs_grouped",
+    "label": "Output Data: Flag invalid segs_grouped"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_segs_ungrouped",
+    "label": "Output Data: Flag invalid segs_ungrouped"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_unique_respondent_serial",
+    "label": "Output Data: Flag invalid cm unique respondent serial"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_wave",
+    "label": "Output Data: Flag invalid cm_wave"
+  },
+  {
+    "name": "qc.rules.output.invalid_cm_weight",
+    "label": "Output Data: Flag invalid cm_weight"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_ad_affective",
+    "label": "Output Data: Flag invalid comms ad_affective"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_ad_novelty",
+    "label": "Output Data: Flag invalid comms ad_novelty"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_ad_relevance",
+    "label": "Output Data: Flag invalid comms ad_relevance"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_ad_see_again",
+    "label": "Output Data: Flag invalid comms_ad_see_again"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_ad_talk_about",
+    "label": "Output Data: Flag invalid comms_ad_talk_about"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_ad1a_novelty",
+    "label": "Output Data: Flag invalid comms ad1a_novelty"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_ad1b_relevant",
+    "label": "Output Data: Flag invalid comms ad1b_relevant"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_ad1c_affective",
+    "label": "Output Data: Flag invalid comms ad1c_affective"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_bf_current",
+    "label": "Output Data: Flag invalid comms_bf_current"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_bf_legacy",
+    "label": "Output Data: Flag invalid comms_bf_legacy"
+  },
+  {
+    "name": "qc.rules.output.invalid_comms_strength_of_relationship",
+    "label": "Output Data: Flag invalid comms_strength_of_relationship"
+  },
+  {
+    "name": "rio.cm.datamaps.labels.advt_information",
+    "label": "Remapped label set for advt_information"
+  },
+  {
+    "name": "rio.cm.datamaps.labels.attribute_information",
+    "label": "Remapped label set for attribute_information"
+  },
+  {
+    "name": "rio.cm.datamaps.labels.brand_information",
+    "label": "Remapped label set for brand_information"
+  },
+  {
+    "name": "rio.cm.datamaps.labels.marketfactor_information",
+    "label": "Remapped label set for marketfactor_information"
+  },
+  {
+    "name": "rio.cm.datamaps.recodes.advt_information",
+    "label": "Recoded i_brand  for advt_information"
+  },
+  {
+    "name": "rio.cm.datamaps.recodes.attribute_information",
+    "label": "Recoded i_brand  for attribute_information"
+  },
+  {
+    "name": "rio.cm.datamaps.recodes.brand_information",
+    "label": "Recoded i_brand  for brand_information"
+  },
+  {
+    "name": "rio.cm.datamaps.recodes.marketfactor_information",
+    "label": "Recoded i_brand  for marketfactor_information"
+  },
+  {
+    "name": "rio.cm.legacy.stage.attribute_label",
+    "label": "Attribute Label"
+  },
+  {
+    "name": "rio.cm.legacy.stage.attribute_value",
+    "label": "Attribute Value"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au1a",
+    "label": "Spontaneous Awareness"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au1b",
+    "label": "Aided Awareness"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au2",
+    "label": "Consideration"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au2_temp",
+    "label": "Consideration"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au3a",
+    "label": "Usage"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au3a3",
+    "label": "au3a3"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au3ac",
+    "label": "Market share (Version 3)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au3b3",
+    "label": "au3b3"
+  },
+  {
+    "name": "rio.cm.legacy.stage.au3c3",
+    "label": "au3c3"
+  },
+  {
+    "name": "rio.cm.legacy.stage.brand_label",
+    "label": "Brand Label"
+  },
+  {
+    "name": "rio.cm.legacy.stage.brand_value",
+    "label": "Brand Value"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_age",
+    "label": "Age bands"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_age_label",
+    "label": "Age bands"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_attr_imp",
+    "label": "Attribute Importance"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_attrshr",
+    "label": "Attribute Share"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_attrshr_tanimoto",
+    "label": "Derived measure of relative attribute importance"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_education",
+    "label": "Education"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_education_label",
+    "label": "Education"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_equity_gap",
+    "label": "Equity Gap"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_evoked_set",
+    "label": "Evoked set"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_gender",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_gender_label",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_hhold",
+    "label": "Number of children in household"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_hhold_comp",
+    "label": "Household Composition"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_hhold_label",
+    "label": "Number of children in household"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_income",
+    "label": "Income"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_income_label",
+    "label": "Income"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_marital",
+    "label": "Marital Status"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_marital_label",
+    "label": "Marital Status"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_market_factors",
+    "label": "Market factors"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_market_factors_step1",
+    "label": "Market factors step 1"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_market_share",
+    "label": "Market Share"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_mf",
+    "label": "Market factors"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_power_in_the_mind",
+    "label": "Power in the Mind"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_psf",
+    "label": "Potential Market Share Flow"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_psf_mf_gain",
+    "label": "Potential share flow gain per market factor"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_psf_mf_loss",
+    "label": "Potential share flow loss per market factor"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_segs_grouped",
+    "label": "CM segmentation (grouped)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_segs_grouped_label",
+    "label": "CM segmentation (grouped)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_segs_ungrouped",
+    "label": "CM segmentation (ungrouped)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_segs_ungrouped_label",
+    "label": "CM segmentation (ungrouped)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_segsum",
+    "label": "Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_segsum_label",
+    "label": "Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_segsum_temp",
+    "label": "Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_som5",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_som5_label",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_som6",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_som6_label",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_tanimoto",
+    "label": "Tanimoto Score"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_ws",
+    "label": "Working Status"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm_ws_label",
+    "label": "Working Status"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm1",
+    "label": "Brand Performance / Needs Fit"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm1_label",
+    "label": "Brand Performance / Needs Fit"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm2",
+    "label": "Category Importance"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm2_label",
+    "label": "Category Importance"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm4b",
+    "label": "Brand Engagement"
+  },
+  {
+    "name": "rio.cm.legacy.stage.cm4b_label",
+    "label": "Brand Engagement"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_ad_affective",
+    "label": "Affective"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_ad_novelty",
+    "label": "Novelty"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_ad_relevance",
+    "label": "Relevance"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_ad_see_again",
+    "label": "See again"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_ad_talk_about",
+    "label": "Talk about"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_advt_label",
+    "label": "Advt Label"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_advt_value",
+    "label": "Advt Value"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_bf_current",
+    "label": "Brand Fluency segmentation (current)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_bf_current_label",
+    "label": "Brand Fluency segmentation (current)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_bf_legacy",
+    "label": "Brand Fluency segmentation (legacy)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_bf_legacy_label",
+    "label": "Brand Fluency segmentation (legacy)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_brand_label",
+    "label": "Brand Label"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_brand_value",
+    "label": "Brand Value"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_strength_of_relationship",
+    "label": "Strength of relationship"
+  },
+  {
+    "name": "rio.cm.legacy.stage.comms_strength_of_relationship_label",
+    "label": "Strength of relationship"
+  },
+  {
+    "name": "rio.cm.legacy.stage.current_brands",
+    "label": "Current Brands"
+  },
+  {
+    "name": "rio.cm.legacy.stage.gender",
+    "label": "gender"
+  },
+  {
+    "name": "rio.cm.legacy.stage.grouped_segment_value",
+    "label": "grouped segment value"
+  },
+  {
+    "name": "rio.cm.legacy.stage.legacy_brands",
+    "label": "Legacy Brands"
+  },
+  {
+    "name": "rio.cm.legacy.stage.marketfactor_label",
+    "label": "Market Factor Label"
+  },
+  {
+    "name": "rio.cm.legacy.stage.marketfactor_value",
+    "label": "Market Factor Value"
+  },
+  {
+    "name": "rio.cm.legacy.stage.respondent",
+    "label": "Respondent ID"
+  },
+  {
+    "name": "rio.cm.legacy.stage.wave",
+    "label": "Wave"
+  },
+  {
+    "name": "rio.cm.legacy.stage.wave_label",
+    "label": "Wave Label"
+  },
+  {
+    "name": "rio.cm.legacy.stage.weight",
+    "label": "Weight"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.cm_psf_mf_size_neg_effect",
+    "label": "Size of negative effect per market factor"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.cm_psf_mf_size_pos_effect",
+    "label": "Size of positive effect per market factor"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.gap",
+    "label": "Gap between power in the mind and market share"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.market_factor_count",
+    "label": "Total count of market factors by respondent"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.negative_gap",
+    "label": "Negative PIM-MS gap (legacy data)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.positive_gap",
+    "label": "Positive PIM-MS gap (legacy data)"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.risk_portion",
+    "label": "Portion at risk"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.total_loss_by_market_factor",
+    "label": "Total loss across brands by market factor"
+  },
+  {
+    "name": "rio.cm.legacy.stage.internal.total_positive_gap",
+    "label": "Total Positive PIM-MS gap (legacy data)"
+  },
+  {
+    "name": "rio.cm.measures.amp",
+    "label": "Affective Memory Potential"
+  },
+  {
+    "name": "rio.cm.measures.base",
+    "label": "Base Count (from CM or CM Comms)"
+  },
+  {
+    "name": "rio.cm.measures.base_attributes",
+    "label": "Base from attribute share - ignore multiple brands within respondent"
+  },
+  {
+    "name": "rio.cm.measures.base_brands",
+    "label": "Base for brands from cm_imagery"
+  },
+  {
+    "name": "rio.cm.measures.cm_psf_negative",
+    "label": "Negative market share flow by brand"
+  },
+  {
+    "name": "rio.cm.measures.cm_psf_positive",
+    "label": "Positive market share flow by brand"
+  },
+  {
+    "name": "rio.cm.measures.comms_advt_brand_list",
+    "label": "List of distinct advert and brand combinations"
+  },
+  {
+    "name": "rio.cm.measures.comms_bf_score_current",
+    "label": "Comms Brand Fluency Score (current)"
+  },
+  {
+    "name": "rio.cm.measures.comms_bf_score_legacy",
+    "label": "Comms Brand Fluency Score (legacy)"
+  },
+  {
+    "name": "rio.cm.measures.dual_usage",
+    "label": "dual usage"
+  },
+  {
+    "name": "rio.cm.measures.dual_usage_all",
+    "label": "dual_usage_all"
+  },
+  {
+    "name": "rio.cm.measures.nov_aff_funnel",
+    "label": "Affective Memory Potential Funnel - Novelty & Affective"
+  },
+  {
+    "name": "rio.cm.measures.nov_aff_rel_funnel",
+    "label": "Affective Memory Potential Funnel - Novelty & Affective & Relevance"
+  },
+  {
+    "name": "rio.cm.measures.nov_funnel",
+    "label": "Affective Memory Potential Funnel - Novelty"
+  },
+  {
+    "name": "rio.cm.measures.repertoire",
+    "label": "repertoire"
+  },
+  {
+    "name": "rio.cm.measures.comms_brand_labels",
+    "label": "Current data brand labels"
+  },
+  {
+    "name": "rio.cm.measures.attribute_list",
+    "label": "List of attributes for project"
+  },
+  {
+    "name": "rio.cm.measures.au2",
+    "label": "Consideration"
+  },
+  {
+    "name": "rio.cm.measures.au3a",
+    "label": "Usage"
+  },
+  {
+    "name": "rio.cm.measures.au3c1",
+    "label": "Market share (Share of Usage)"
+  },
+  {
+    "name": "rio.cm.measures.brand_list",
+    "label": "List of brands for project"
+  },
+  {
+    "name": "rio.cm.measures.cm_age",
+    "label": "Age bands"
+  },
+  {
+    "name": "rio.cm.measures.cm_attr_imp",
+    "label": "Attribute Importance"
+  },
+  {
+    "name": "rio.cm.measures.cm_attrshr",
+    "label": "Attribute Share"
+  },
+  {
+    "name": "rio.cm.measures.cm_attrshr_tanimoto",
+    "label": "Derived measure of relative attribute importance"
+  },
+  {
+    "name": "rio.cm.measures.cm_brand_labels",
+    "label": "Current data brand labels for CM projects"
+  },
+  {
+    "name": "rio.cm.measures.cm_equity_gap",
+    "label": "Equity Gap"
+  },
+  {
+    "name": "rio.cm.measures.cm_evoked_set",
+    "label": "Evoked set"
+  },
+  {
+    "name": "rio.cm.measures.cm_gender",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.measures.cm_imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.cm.measures.cm_income",
+    "label": "Income"
+  },
+  {
+    "name": "rio.cm.measures.cm_market_share",
+    "label": "Market Share"
+  },
+  {
+    "name": "rio.cm.measures.cm_mf",
+    "label": "Market factors"
+  },
+  {
+    "name": "rio.cm.measures.cm_power_in_the_mind",
+    "label": "Power in the mind"
+  },
+  {
+    "name": "rio.cm.measures.cm_psf",
+    "label": "Potential Market Share Flow"
+  },
+  {
+    "name": "rio.cm.measures.cm_psf_mf_gain",
+    "label": "Potential Market Share Flows by Market Factors - Gains"
+  },
+  {
+    "name": "rio.cm.measures.cm_psf_mf_gain_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Gains unmeassured"
+  },
+  {
+    "name": "rio.cm.measures.cm_psf_mf_loss",
+    "label": "Potential Market Share Flows by Market Factors - Losses"
+  },
+  {
+    "name": "rio.cm.measures.cm_psf_mf_loss_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Losses unmeassured"
+  },
+  {
+    "name": "rio.cm.measures.cm_segs_grouped",
+    "label": "CM segmentation (grouped)"
+  },
+  {
+    "name": "rio.cm.measures.cm_segs_ungrouped",
+    "label": "CM segmentation (ungrouped)"
+  },
+  {
+    "name": "rio.cm.measures.cm_segsum",
+    "label": "Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.measures.cm_som5",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.measures.cm_som6",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.measures.cm_tanimoto",
+    "label": "Tanimoto Score"
+  },
+  {
+    "name": "rio.cm.measures.cm1",
+    "label": "Brand Performance / Needs Fit"
+  },
+  {
+    "name": "rio.cm.measures.cm2",
+    "label": "Category Importance"
+  },
+  {
+    "name": "rio.cm.measures.cm4",
+    "label": "Brand Engagement"
+  },
+  {
+    "name": "rio.cm.measures.market_factor_list",
+    "label": "List of market factors for project"
+  },
+  {
+    "name": "rio.cm.measures.respondent",
+    "label": "Respondent ID"
+  },
+  {
+    "name": "rio.cm.measures.wave",
+    "label": "Wave"
+  },
+  {
+    "name": "rio.cm.measures.weight",
+    "label": "Weight"
+  },
+  {
+    "name": "rio.cm.measures.cmcomms_commsonly",
+    "label": "CM Comms only sample"
+  },
+  {
+    "name": "rio.cm.measures.comms_ad_affective",
+    "label": "Affective"
+  },
+  {
+    "name": "rio.cm.measures.comms_ad_novelty",
+    "label": "Novelty"
+  },
+  {
+    "name": "rio.cm.measures.comms_ad_relevance",
+    "label": "Relevance"
+  },
+  {
+    "name": "rio.cm.measures.comms_ad_see_again",
+    "label": "See again"
+  },
+  {
+    "name": "rio.cm.measures.comms_ad_talk_about",
+    "label": "Talk about"
+  },
+  {
+    "name": "rio.cm.measures.comms_ad1a_novelty",
+    "label": "Novelty (raw)"
+  },
+  {
+    "name": "rio.cm.measures.comms_ad1b_relevant",
+    "label": "Relevance (raw)"
+  },
+  {
+    "name": "rio.cm.measures.comms_ad1c_affective",
+    "label": "Affective (raw)"
+  },
+  {
+    "name": "rio.cm.measures.comms_bf_current",
+    "label": "Brand Fluency segmentation (current)"
+  },
+  {
+    "name": "rio.cm.measures.comms_strength_of_relationship",
+    "label": "Strength of relationship"
+  },
+  {
+    "name": "rio.cm.raw.hholdcomp",
+    "label": "Household composition"
+  },
+  {
+    "name": "rio.cm.raw._loaderid",
+    "label": "_loaderid"
+  },
+  {
+    "name": "rio.cm.raw._parentid",
+    "label": "_parentid"
+  },
+  {
+    "name": "rio.cm.raw.ad_recognition_1",
+    "label": "Brand W : Print : Recognition guess"
+  },
+  {
+    "name": "rio.cm.raw.ad_recognition_2",
+    "label": "Brand W : Print : Recognition correct"
+  },
+  {
+    "name": "rio.cm.raw.ad_recognition_3",
+    "label": "Brand W : Print : Time to recognition"
+  },
+  {
+    "name": "rio.cm.raw.ad1a",
+    "label": "Brand A : TVC2 Friends : Novelty"
+  },
+  {
+    "name": "rio.cm.raw.ad1b",
+    "label": "Brand A : TVC2 Friends : Relevance"
+  },
+  {
+    "name": "rio.cm.raw.ad1c",
+    "label": "Brand A : TVC2 Friends : Affective impact"
+  },
+  {
+    "name": "rio.cm.raw.age",
+    "label": "Age"
+  },
+  {
+    "name": "rio.cm.raw.au2",
+    "label": "Brand W"
+  },
+  {
+    "name": "rio.cm.raw.au3a",
+    "label": "Brand W"
+  },
+  {
+    "name": "rio.cm.raw.au3c1",
+    "label": "Brand W"
+  },
+  {
+    "name": "rio.cm.raw.av1",
+    "label": "Brand A : TVC2 Friends : See again"
+  },
+  {
+    "name": "rio.cm.raw.av2",
+    "label": "Brand A : TVC2 Friends : Talk about"
+  },
+  {
+    "name": "rio.cm.raw.cat_nuse_filter",
+    "label": "Category Non-user Identifier"
+  },
+  {
+    "name": "rio.cm.raw.cm_att_im_slice",
+    "label": "Uses all-natural ingredients :"
+  },
+  {
+    "name": "rio.cm.raw.cm_attshr_brands_im",
+    "label": "Brand W : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.cm_evoke_brands_slice",
+    "label": "Brand W :"
+  },
+  {
+    "name": "rio.cm.raw.cm_gain_brands_mf",
+    "label": "Brand W : Packaging is the most appealing & attention-grabbing"
+  },
+  {
+    "name": "rio.cm.raw.cm_gain_brands_unmeasuredmf",
+    "label": "Brand W : UnmeasuredMF"
+  },
+  {
+    "name": "rio.cm.raw.cm_grid_brands_gap",
+    "label": "Brand W : Gap"
+  },
+  {
+    "name": "rio.cm.raw.cm_grid_brands_market_share",
+    "label": "Brand W : Market Share"
+  },
+  {
+    "name": "rio.cm.raw.cm_grid_brands_power_in_the_mind",
+    "label": "Brand W : Power In The Mind"
+  },
+  {
+    "name": "rio.cm.raw.cm_grpdcmsegs_brands_slice",
+    "label": "Brand W :"
+  },
+  {
+    "name": "rio.cm.raw.cm_loss_brands_mf",
+    "label": "Brand W : Packaging is the most appealing & attention-grabbing"
+  },
+  {
+    "name": "rio.cm.raw.cm_loss_brands_unmeasuredmf",
+    "label": "Brand W : UnmeasuredMF"
+  },
+  {
+    "name": "rio.cm.raw.cm_psf_from_brands_brands",
+    "label": "Brand W : Brand W"
+  },
+  {
+    "name": "rio.cm.raw.cm_segs_brands_slice",
+    "label": "Brand W :"
+  },
+  {
+    "name": "rio.cm.raw.cm_segsum",
+    "label": "CM : Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.raw.cm_shrtanattshr_im",
+    "label": "Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.cm_som",
+    "label": "CM : SOM_6"
+  },
+  {
+    "name": "rio.cm.raw.cm1",
+    "label": "Brand W"
+  },
+  {
+    "name": "rio.cm.raw.cm2",
+    "label": "Category Importance"
+  },
+  {
+    "name": "rio.cm.raw.cm4",
+    "label": "Brand W"
+  },
+  {
+    "name": "rio.cm.raw.cmcomms_commsonly",
+    "label": "CMComms : Comms only sample"
+  },
+  {
+    "name": "rio.cm.raw.cmcomms_grid_advt_affectiveimpact_top_slice",
+    "label": "Brand W-Print, Top 3 :"
+  },
+  {
+    "name": "rio.cm.raw.cmcomms_grid_advt_bfcurrent",
+    "label": "Brand W-Print : BFCurrent"
+  },
+  {
+    "name": "rio.cm.raw.cmcomms_grid_advt_novelty_top_slice",
+    "label": "Brand W-Print, Top 3 :"
+  },
+  {
+    "name": "rio.cm.raw.cmcomms_grid_advt_relevance_top_slice",
+    "label": "Brand W-Print, Top 3 :"
+  },
+  {
+    "name": "rio.cm.raw.cmcomms_grid_advt_seeagain",
+    "label": "Brand W-Print : SeeAgain"
+  },
+  {
+    "name": "rio.cm.raw.cmcomms_grid_advt_talkabout",
+    "label": "Brand W-Print : TalkAbout"
+  },
+  {
+    "name": "rio.cm.raw.cmcomms_strength_of_rel_brands_slice",
+    "label": "Brand W :"
+  },
+  {
+    "name": "rio.cm.raw.gender",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_1",
+    "label": "Brand A : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_10",
+    "label": "Brand J : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_11",
+    "label": "Brand K : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_12",
+    "label": "Brand L : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_13",
+    "label": "Brand M : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_14",
+    "label": "Brand N : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_15",
+    "label": "Brand O : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_16",
+    "label": "Brand P : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_17",
+    "label": "Brand Q : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_18",
+    "label": "Brand R : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_19",
+    "label": "Brand S : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_2",
+    "label": "Brand B : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_20",
+    "label": "Brand T : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_21",
+    "label": "Brand U : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_22",
+    "label": "Brand V : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_23",
+    "label": "Brand W : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_3",
+    "label": "Brand C : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_4",
+    "label": "Brand D : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_5",
+    "label": "Brand E : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_6",
+    "label": "Brand F : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_7",
+    "label": "Brand G : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_8",
+    "label": "Brand H : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_1_9",
+    "label": "Brand I : Is a premium brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_1",
+    "label": "Brand A : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_10",
+    "label": "Brand J : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_11",
+    "label": "Brand K : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_12",
+    "label": "Brand L : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_13",
+    "label": "Brand M : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_14",
+    "label": "Brand N : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_15",
+    "label": "Brand O : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_16",
+    "label": "Brand P : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_17",
+    "label": "Brand Q : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_18",
+    "label": "Brand R : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_19",
+    "label": "Brand S : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_2",
+    "label": "Brand B : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_20",
+    "label": "Brand T : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_21",
+    "label": "Brand U : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_22",
+    "label": "Brand V : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_23",
+    "label": "Brand W : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_3",
+    "label": "Brand C : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_4",
+    "label": "Brand D : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_5",
+    "label": "Brand E : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_6",
+    "label": "Brand F : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_7",
+    "label": "Brand G : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_8",
+    "label": "Brand H : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_10_9",
+    "label": "Brand I : I would be happy to serve it to my family"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_1",
+    "label": "Brand A : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_10",
+    "label": "Brand J : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_11",
+    "label": "Brand K : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_12",
+    "label": "Brand L : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_13",
+    "label": "Brand M : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_14",
+    "label": "Brand N : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_15",
+    "label": "Brand O : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_16",
+    "label": "Brand P : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_17",
+    "label": "Brand Q : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_18",
+    "label": "Brand R : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_19",
+    "label": "Brand S : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_2",
+    "label": "Brand B : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_20",
+    "label": "Brand T : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_21",
+    "label": "Brand U : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_22",
+    "label": "Brand V : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_23",
+    "label": "Brand W : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_3",
+    "label": "Brand C : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_4",
+    "label": "Brand D : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_5",
+    "label": "Brand E : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_6",
+    "label": "Brand F : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_7",
+    "label": "Brand G : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_8",
+    "label": "Brand H : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_11_9",
+    "label": "Brand I : Is a trusted brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_1",
+    "label": "Brand A : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_10",
+    "label": "Brand J : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_11",
+    "label": "Brand K : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_12",
+    "label": "Brand L : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_13",
+    "label": "Brand M : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_14",
+    "label": "Brand N : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_15",
+    "label": "Brand O : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_16",
+    "label": "Brand P : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_17",
+    "label": "Brand Q : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_18",
+    "label": "Brand R : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_19",
+    "label": "Brand S : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_2",
+    "label": "Brand B : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_20",
+    "label": "Brand T : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_21",
+    "label": "Brand U : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_22",
+    "label": "Brand V : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_23",
+    "label": "Brand W : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_3",
+    "label": "Brand C : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_4",
+    "label": "Brand D : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_5",
+    "label": "Brand E : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_6",
+    "label": "Brand F : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_7",
+    "label": "Brand G : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_8",
+    "label": "Brand H : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_12_9",
+    "label": "Brand I : Has good products for entertaining/ socialising"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_1",
+    "label": "Brand A : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_10",
+    "label": "Brand J : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_11",
+    "label": "Brand K : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_12",
+    "label": "Brand L : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_13",
+    "label": "Brand M : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_14",
+    "label": "Brand N : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_15",
+    "label": "Brand O : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_16",
+    "label": "Brand P : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_17",
+    "label": "Brand Q : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_18",
+    "label": "Brand R : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_19",
+    "label": "Brand S : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_2",
+    "label": "Brand B : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_20",
+    "label": "Brand T : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_21",
+    "label": "Brand U : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_22",
+    "label": "Brand V : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_23",
+    "label": "Brand W : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_3",
+    "label": "Brand C : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_4",
+    "label": "Brand D : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_5",
+    "label": "Brand E : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_6",
+    "label": "Brand F : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_7",
+    "label": "Brand G : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_8",
+    "label": "Brand H : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_13_9",
+    "label": "Brand I : Is tasty and full of flavour"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_1",
+    "label": "Brand A : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_10",
+    "label": "Brand J : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_11",
+    "label": "Brand K : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_12",
+    "label": "Brand L : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_13",
+    "label": "Brand M : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_14",
+    "label": "Brand N : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_15",
+    "label": "Brand O : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_16",
+    "label": "Brand P : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_17",
+    "label": "Brand Q : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_18",
+    "label": "Brand R : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_19",
+    "label": "Brand S : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_2",
+    "label": "Brand B : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_20",
+    "label": "Brand T : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_21",
+    "label": "Brand U : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_22",
+    "label": "Brand V : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_23",
+    "label": "Brand W : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_3",
+    "label": "Brand C : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_4",
+    "label": "Brand D : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_5",
+    "label": "Brand E : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_6",
+    "label": "Brand F : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_7",
+    "label": "Brand G : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_8",
+    "label": "Brand H : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_14_9",
+    "label": "Brand I : Has less processed products"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_1",
+    "label": "Brand A : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_10",
+    "label": "Brand J : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_11",
+    "label": "Brand K : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_12",
+    "label": "Brand L : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_13",
+    "label": "Brand M : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_14",
+    "label": "Brand N : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_15",
+    "label": "Brand O : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_16",
+    "label": "Brand P : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_17",
+    "label": "Brand Q : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_18",
+    "label": "Brand R : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_19",
+    "label": "Brand S : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_2",
+    "label": "Brand B : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_20",
+    "label": "Brand T : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_21",
+    "label": "Brand U : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_22",
+    "label": "Brand V : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_23",
+    "label": "Brand W : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_3",
+    "label": "Brand C : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_4",
+    "label": "Brand D : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_5",
+    "label": "Brand E : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_6",
+    "label": "Brand F : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_7",
+    "label": "Brand G : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_8",
+    "label": "Brand H : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_15_9",
+    "label": "Brand I : Has European flavours and connections"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_1",
+    "label": "Brand A : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_10",
+    "label": "Brand J : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_11",
+    "label": "Brand K : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_12",
+    "label": "Brand L : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_13",
+    "label": "Brand M : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_14",
+    "label": "Brand N : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_15",
+    "label": "Brand O : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_16",
+    "label": "Brand P : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_17",
+    "label": "Brand Q : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_18",
+    "label": "Brand R : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_19",
+    "label": "Brand S : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_2",
+    "label": "Brand B : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_20",
+    "label": "Brand T : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_21",
+    "label": "Brand U : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_22",
+    "label": "Brand V : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_23",
+    "label": "Brand W : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_3",
+    "label": "Brand C : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_4",
+    "label": "Brand D : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_5",
+    "label": "Brand E : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_6",
+    "label": "Brand F : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_7",
+    "label": "Brand G : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_8",
+    "label": "Brand H : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_16_9",
+    "label": "Brand I : Uses all-natural ingredients"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_1",
+    "label": "Brand A : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_10",
+    "label": "Brand J : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_11",
+    "label": "Brand K : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_12",
+    "label": "Brand L : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_13",
+    "label": "Brand M : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_14",
+    "label": "Brand N : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_15",
+    "label": "Brand O : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_16",
+    "label": "Brand P : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_17",
+    "label": "Brand Q : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_18",
+    "label": "Brand R : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_19",
+    "label": "Brand S : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_2",
+    "label": "Brand B : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_20",
+    "label": "Brand T : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_21",
+    "label": "Brand U : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_22",
+    "label": "Brand V : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_23",
+    "label": "Brand W : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_3",
+    "label": "Brand C : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_4",
+    "label": "Brand D : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_5",
+    "label": "Brand E : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_6",
+    "label": "Brand F : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_7",
+    "label": "Brand G : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_8",
+    "label": "Brand H : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_17_9",
+    "label": "Brand I : Has the freshest products"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_1",
+    "label": "Brand A : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_10",
+    "label": "Brand J : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_11",
+    "label": "Brand K : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_12",
+    "label": "Brand L : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_13",
+    "label": "Brand M : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_14",
+    "label": "Brand N : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_15",
+    "label": "Brand O : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_16",
+    "label": "Brand P : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_17",
+    "label": "Brand Q : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_18",
+    "label": "Brand R : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_19",
+    "label": "Brand S : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_2",
+    "label": "Brand B : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_20",
+    "label": "Brand T : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_21",
+    "label": "Brand U : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_22",
+    "label": "Brand V : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_23",
+    "label": "Brand W : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_3",
+    "label": "Brand C : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_4",
+    "label": "Brand D : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_5",
+    "label": "Brand E : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_6",
+    "label": "Brand F : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_7",
+    "label": "Brand G : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_8",
+    "label": "Brand H : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_18_9",
+    "label": "Brand I : Is an exciting brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_1",
+    "label": "Brand A : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_10",
+    "label": "Brand J : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_11",
+    "label": "Brand K : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_12",
+    "label": "Brand L : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_13",
+    "label": "Brand M : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_14",
+    "label": "Brand N : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_15",
+    "label": "Brand O : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_16",
+    "label": "Brand P : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_17",
+    "label": "Brand Q : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_18",
+    "label": "Brand R : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_19",
+    "label": "Brand S : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_2",
+    "label": "Brand B : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_20",
+    "label": "Brand T : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_21",
+    "label": "Brand U : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_22",
+    "label": "Brand V : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_23",
+    "label": "Brand W : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_3",
+    "label": "Brand C : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_4",
+    "label": "Brand D : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_5",
+    "label": "Brand E : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_6",
+    "label": "Brand F : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_7",
+    "label": "Brand G : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_8",
+    "label": "Brand H : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_19_9",
+    "label": "Brand I : Inspires me to eat/ prepare meals in different ways"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_1",
+    "label": "Brand A : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_10",
+    "label": "Brand J : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_11",
+    "label": "Brand K : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_12",
+    "label": "Brand L : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_13",
+    "label": "Brand M : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_14",
+    "label": "Brand N : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_15",
+    "label": "Brand O : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_16",
+    "label": "Brand P : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_17",
+    "label": "Brand Q : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_18",
+    "label": "Brand R : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_19",
+    "label": "Brand S : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_2",
+    "label": "Brand B : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_20",
+    "label": "Brand T : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_21",
+    "label": "Brand U : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_22",
+    "label": "Brand V : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_23",
+    "label": "Brand W : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_3",
+    "label": "Brand C : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_4",
+    "label": "Brand D : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_5",
+    "label": "Brand E : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_6",
+    "label": "Brand F : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_7",
+    "label": "Brand G : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_8",
+    "label": "Brand H : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_2_9",
+    "label": "Brand I : Is an innovative brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_1",
+    "label": "Brand A : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_10",
+    "label": "Brand J : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_11",
+    "label": "Brand K : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_12",
+    "label": "Brand L : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_13",
+    "label": "Brand M : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_14",
+    "label": "Brand N : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_15",
+    "label": "Brand O : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_16",
+    "label": "Brand P : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_17",
+    "label": "Brand Q : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_18",
+    "label": "Brand R : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_19",
+    "label": "Brand S : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_2",
+    "label": "Brand B : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_20",
+    "label": "Brand T : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_21",
+    "label": "Brand U : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_22",
+    "label": "Brand V : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_23",
+    "label": "Brand W : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_3",
+    "label": "Brand C : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_4",
+    "label": "Brand D : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_5",
+    "label": "Brand E : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_6",
+    "label": "Brand F : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_7",
+    "label": "Brand G : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_8",
+    "label": "Brand H : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_20_9",
+    "label": "Brand I : Is a brand that cares for animal welfare, i.e free from antibiotics, free from added hormones, free range"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_1",
+    "label": "Brand A : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_10",
+    "label": "Brand J : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_11",
+    "label": "Brand K : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_12",
+    "label": "Brand L : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_13",
+    "label": "Brand M : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_14",
+    "label": "Brand N : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_15",
+    "label": "Brand O : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_16",
+    "label": "Brand P : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_17",
+    "label": "Brand Q : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_18",
+    "label": "Brand R : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_19",
+    "label": "Brand S : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_2",
+    "label": "Brand B : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_20",
+    "label": "Brand T : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_21",
+    "label": "Brand U : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_22",
+    "label": "Brand V : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_23",
+    "label": "Brand W : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_3",
+    "label": "Brand C : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_4",
+    "label": "Brand D : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_5",
+    "label": "Brand E : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_6",
+    "label": "Brand F : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_7",
+    "label": "Brand G : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_8",
+    "label": "Brand H : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_21_9",
+    "label": "Brand I : Has a range I am interested in exploring"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_1",
+    "label": "Brand A : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_10",
+    "label": "Brand J : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_11",
+    "label": "Brand K : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_12",
+    "label": "Brand L : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_13",
+    "label": "Brand M : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_14",
+    "label": "Brand N : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_15",
+    "label": "Brand O : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_16",
+    "label": "Brand P : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_17",
+    "label": "Brand Q : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_18",
+    "label": "Brand R : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_19",
+    "label": "Brand S : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_2",
+    "label": "Brand B : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_20",
+    "label": "Brand T : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_21",
+    "label": "Brand U : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_22",
+    "label": "Brand V : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_23",
+    "label": "Brand W : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_3",
+    "label": "Brand C : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_4",
+    "label": "Brand D : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_5",
+    "label": "Brand E : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_6",
+    "label": "Brand F : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_7",
+    "label": "Brand G : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_8",
+    "label": "Brand H : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_3_9",
+    "label": "Brand I : Offers products that are better for me"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_1",
+    "label": "Brand A : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_10",
+    "label": "Brand J : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_11",
+    "label": "Brand K : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_12",
+    "label": "Brand L : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_13",
+    "label": "Brand M : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_14",
+    "label": "Brand N : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_15",
+    "label": "Brand O : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_16",
+    "label": "Brand P : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_17",
+    "label": "Brand Q : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_18",
+    "label": "Brand R : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_19",
+    "label": "Brand S : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_2",
+    "label": "Brand B : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_20",
+    "label": "Brand T : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_21",
+    "label": "Brand U : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_22",
+    "label": "Brand V : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_23",
+    "label": "Brand W : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_3",
+    "label": "Brand C : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_4",
+    "label": "Brand D : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_5",
+    "label": "Brand E : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_6",
+    "label": "Brand F : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_7",
+    "label": "Brand G : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_8",
+    "label": "Brand H : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_4_9",
+    "label": "Brand I : Is a traditional brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_1",
+    "label": "Brand A : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_10",
+    "label": "Brand J : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_11",
+    "label": "Brand K : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_12",
+    "label": "Brand L : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_13",
+    "label": "Brand M : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_14",
+    "label": "Brand N : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_15",
+    "label": "Brand O : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_16",
+    "label": "Brand P : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_17",
+    "label": "Brand Q : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_18",
+    "label": "Brand R : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_19",
+    "label": "Brand S : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_2",
+    "label": "Brand B : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_20",
+    "label": "Brand T : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_21",
+    "label": "Brand U : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_22",
+    "label": "Brand V : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_23",
+    "label": "Brand W : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_3",
+    "label": "Brand C : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_4",
+    "label": "Brand D : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_5",
+    "label": "Brand E : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_6",
+    "label": "Brand F : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_7",
+    "label": "Brand G : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_8",
+    "label": "Brand H : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_5_9",
+    "label": "Brand I : Is a brand that makes my life easier"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_1",
+    "label": "Brand A : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_10",
+    "label": "Brand J : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_11",
+    "label": "Brand K : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_12",
+    "label": "Brand L : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_13",
+    "label": "Brand M : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_14",
+    "label": "Brand N : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_15",
+    "label": "Brand O : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_16",
+    "label": "Brand P : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_17",
+    "label": "Brand Q : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_18",
+    "label": "Brand R : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_19",
+    "label": "Brand S : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_2",
+    "label": "Brand B : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_20",
+    "label": "Brand T : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_21",
+    "label": "Brand U : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_22",
+    "label": "Brand V : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_23",
+    "label": "Brand W : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_3",
+    "label": "Brand C : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_4",
+    "label": "Brand D : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_5",
+    "label": "Brand E : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_6",
+    "label": "Brand F : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_7",
+    "label": "Brand G : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_8",
+    "label": "Brand H : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_6_9",
+    "label": "Brand I : Has constantly high quality products"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_1",
+    "label": "Brand A : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_10",
+    "label": "Brand J : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_11",
+    "label": "Brand K : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_12",
+    "label": "Brand L : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_13",
+    "label": "Brand M : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_14",
+    "label": "Brand N : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_15",
+    "label": "Brand O : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_16",
+    "label": "Brand P : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_17",
+    "label": "Brand Q : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_18",
+    "label": "Brand R : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_19",
+    "label": "Brand S : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_2",
+    "label": "Brand B : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_20",
+    "label": "Brand T : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_21",
+    "label": "Brand U : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_22",
+    "label": "Brand V : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_23",
+    "label": "Brand W : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_3",
+    "label": "Brand C : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_4",
+    "label": "Brand D : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_5",
+    "label": "Brand E : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_6",
+    "label": "Brand F : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_7",
+    "label": "Brand G : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_8",
+    "label": "Brand H : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_7_9",
+    "label": "Brand I : Has products with an authentic taste"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_1",
+    "label": "Brand A : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_10",
+    "label": "Brand J : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_11",
+    "label": "Brand K : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_12",
+    "label": "Brand L : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_13",
+    "label": "Brand M : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_14",
+    "label": "Brand N : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_15",
+    "label": "Brand O : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_16",
+    "label": "Brand P : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_17",
+    "label": "Brand Q : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_18",
+    "label": "Brand R : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_19",
+    "label": "Brand S : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_2",
+    "label": "Brand B : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_20",
+    "label": "Brand T : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_21",
+    "label": "Brand U : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_22",
+    "label": "Brand V : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_23",
+    "label": "Brand W : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_3",
+    "label": "Brand C : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_4",
+    "label": "Brand D : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_5",
+    "label": "Brand E : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_6",
+    "label": "Brand F : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_7",
+    "label": "Brand G : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_8",
+    "label": "Brand H : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_8_9",
+    "label": "Brand I : Is all Australian"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_1",
+    "label": "Brand A : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_10",
+    "label": "Brand J : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_11",
+    "label": "Brand K : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_12",
+    "label": "Brand L : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_13",
+    "label": "Brand M : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_14",
+    "label": "Brand N : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_15",
+    "label": "Brand O : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_16",
+    "label": "Brand P : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_17",
+    "label": "Brand Q : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_18",
+    "label": "Brand R : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_19",
+    "label": "Brand S : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_2",
+    "label": "Brand B : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_20",
+    "label": "Brand T : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_21",
+    "label": "Brand U : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_22",
+    "label": "Brand V : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_23",
+    "label": "Brand W : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_3",
+    "label": "Brand C : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_4",
+    "label": "Brand D : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_5",
+    "label": "Brand E : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_6",
+    "label": "Brand F : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_7",
+    "label": "Brand G : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_8",
+    "label": "Brand H : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.im1_9_9",
+    "label": "Brand I : Is an everyday brand"
+  },
+  {
+    "name": "rio.cm.raw.income",
+    "label": "Household Income"
+  },
+  {
+    "name": "rio.cm.raw.mf1",
+    "label": "Brand W : I see or hear about it more than any others"
+  },
+  {
+    "name": "rio.cm.raw.mf10",
+    "label": "Brand W : Has the widest range/variety of flavours"
+  },
+  {
+    "name": "rio.cm.raw.mf11",
+    "label": "Brand W : Is most preferred by my family"
+  },
+  {
+    "name": "rio.cm.raw.mf12",
+    "label": "Brand W : Has a range of products that I can easily identify on shelf"
+  },
+  {
+    "name": "rio.cm.raw.mf2",
+    "label": "Brand W : Always available where I normally shop"
+  },
+  {
+    "name": "rio.cm.raw.mf3",
+    "label": "Brand W : Is the leading brand"
+  },
+  {
+    "name": "rio.cm.raw.mf4",
+    "label": "Brand W : Is the most visible brand"
+  },
+  {
+    "name": "rio.cm.raw.mf5",
+    "label": "Brand W : Packaging is the most appealing & attention-grabbing"
+  },
+  {
+    "name": "rio.cm.raw.mf6",
+    "label": "Brand W : Comes in a range of convenient packaging"
+  },
+  {
+    "name": "rio.cm.raw.mf7",
+    "label": "Brand W : Is the most affordable"
+  },
+  {
+    "name": "rio.cm.raw.mf8",
+    "label": "Brand W : Always has the most freshly made products"
+  },
+  {
+    "name": "rio.cm.raw.mf9",
+    "label": "Brand W : Comes in all the pack sizes and variants I need"
+  },
+  {
+    "name": "rio.cm.raw.month",
+    "label": "Month"
+  },
+  {
+    "name": "rio.cm.raw.respondent_serial",
+    "label": "Serial number"
+  },
+  {
+    "name": "rio.cm.raw.wave",
+    "label": "Wave"
+  },
+  {
+    "name": "rio.cm.raw.weight",
+    "label": "Weight"
+  },
+  {
+    "name": "rio.cm.raw.stage.attribute_label",
+    "label": "Attribute Share"
+  },
+  {
+    "name": "rio.cm.raw.stage.attribute_label_recode",
+    "label": "attribute_label_recode"
+  },
+  {
+    "name": "rio.cm.raw.stage.attribute_list",
+    "label": "List of attributes for project"
+  },
+  {
+    "name": "rio.cm.raw.stage.au1a",
+    "label": "Spontaneous Awareness"
+  },
+  {
+    "name": "rio.cm.raw.stage.au1b",
+    "label": "Aided Awareness"
+  },
+  {
+    "name": "rio.cm.raw.stage.au2",
+    "label": "Consideration"
+  },
+  {
+    "name": "rio.cm.raw.stage.au3a",
+    "label": "Usage"
+  },
+  {
+    "name": "rio.cm.raw.stage.au3c1",
+    "label": "Market share (Share of Usage)"
+  },
+  {
+    "name": "rio.cm.raw.stage.au3c2",
+    "label": "Market share (Share of Spend)"
+  },
+  {
+    "name": "rio.cm.raw.stage.au3c3",
+    "label": "Share of Volume"
+  },
+  {
+    "name": "rio.cm.raw.stage.autot",
+    "label": "Aided Awareness"
+  },
+  {
+    "name": "rio.cm.raw.stage.brand_label_recode",
+    "label": "brand_label_recode"
+  },
+  {
+    "name": "rio.cm.raw.stage.brand_list",
+    "label": "List of brands for project"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_age",
+    "label": "Age bands"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_attr_imp",
+    "label": "Attribute Importance"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_attrshr",
+    "label": "Attribute Share"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_attrshr_tanimoto",
+    "label": "Derived measure of relative attribute importance"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_brand_labels",
+    "label": "Current data brand labels for CM projects"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_education",
+    "label": "Education"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_equity_gap",
+    "label": "Equity Gap"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_evoked_set",
+    "label": "Evoked set"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_gender",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_hhold",
+    "label": "Number of children in household"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_hhold_comp",
+    "label": "Household Composition"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_income",
+    "label": "Income"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_marital",
+    "label": "Marital Status"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_market_factors",
+    "label": "Market factors"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_market_share",
+    "label": "Market Share"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_mf",
+    "label": "Market factors"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_power_in_the_mind",
+    "label": "Power in the mind"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_psf",
+    "label": "Potential Market Share Flow"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_psf_mf_gain",
+    "label": "Potential Market Share Flows by Market Factors - Gains"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_psf_mf_gain_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Gains unmeassured"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_psf_mf_loss",
+    "label": "Potential Market Share Flows by Market Factors - Losses"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_psf_mf_loss_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Losses unmeassured"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_segs_grouped",
+    "label": "CM segmentation (grouped)"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_segs_ungrouped",
+    "label": "CM segmentation (ungrouped)"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_segsum",
+    "label": "Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_som5",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_som6",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_tanimoto",
+    "label": "Tanimoto Score"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_ws",
+    "label": "Working Status"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm_ws_detail",
+    "label": "Working Status (detailed)"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm1",
+    "label": "Brand Performance / Needs Fit"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm2",
+    "label": "Category Importance"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm4",
+    "label": "Brand Engagement"
+  },
+  {
+    "name": "rio.cm.raw.stage.cm4b",
+    "label": "Brand Engagement"
+  },
+  {
+    "name": "rio.cm.raw.stage.cmcomms_commsonly",
+    "label": "CM Comms only sample"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad_affective",
+    "label": "Affective"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad_novelty",
+    "label": "Novelty"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad_relevance",
+    "label": "Relevance"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad_see_again",
+    "label": "See again"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad_talk_about",
+    "label": "Talk about"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad1_recall",
+    "label": "Ad recall"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad1a_novelty",
+    "label": "Novelty (raw)"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad1b_relevant",
+    "label": "Relevance (raw)"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_ad1c_affective",
+    "label": "Affective (raw)"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_bf_current",
+    "label": "Brand Fluency segmentation (current)"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_bf_legacy",
+    "label": "Brand Fluency segmentation (legacy)"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_brand_labels",
+    "label": "Current data brand labels"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_strength_of_relationship",
+    "label": "Strength of relationship"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_tbca",
+    "label": "TBCA"
+  },
+  {
+    "name": "rio.cm.raw.stage.comms_tbca_brands",
+    "label": "TBCA Brands"
+  },
+  {
+    "name": "rio.cm.raw.stage.imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.cm.raw.stage.market_factor_list",
+    "label": "List of market factors for project"
+  },
+  {
+    "name": "rio.cm.raw.stage.marketfactor_label",
+    "label": "Market Factor Label"
+  },
+  {
+    "name": "rio.cm.raw.stage.marketfactor_label_recode",
+    "label": "brand_label_recode"
+  },
+  {
+    "name": "rio.cm.raw.stage.respondent",
+    "label": "Respondent ID"
+  },
+  {
+    "name": "rio.cm.raw.stage.wave",
+    "label": "Wave"
+  },
+  {
+    "name": "rio.cm.raw.stage.week",
+    "label": "Week - weekly wave variable (Mockup)"
+  },
+  {
+    "name": "rio.cm.raw.stage.weight",
+    "label": "Weight"
+  },
+  {
+    "name": "rio.info.labelset",
+    "label": "labelset"
+  },
+  {
+    "name": "rio.project.settings.settingsvalue",
+    "label": "settingsvalue"
+  },
+  {
+    "name": "rio.project.settings._loaderid",
+    "label": "_loaderid"
+  },
+  {
+    "name": "rio.project.settings._parentid",
+    "label": "_parentid"
+  },
+  {
+    "name": "rio.project.settings.settings",
+    "label": "f1"
+  },
+  {
+    "name": "rio.project.settings.value",
+    "label": "f2"
+  },
+  {
+    "name": "system_levels.respondent",
+    "label": "Respondent"
+  },
+  {
+    "name": "keys.i_loaderid",
+    "label": "Labeled version of index i_loaderid"
+  },
+  {
+    "name": "keys.resp_serial",
+    "label": "Labeled version of index resp_serial"
+  },
+  {
+    "name": "keys.sequence",
+    "label": "Labeled version of index sequence"
+  },
+  {
+    "name": "keys.i_recognition",
+    "label": "Labeled version of index i_recognition"
+  },
+  {
+    "name": "keys.i_ad1a",
+    "label": "Labeled version of index i_ad1a"
+  },
+  {
+    "name": "keys.i_ad1b",
+    "label": "Labeled version of index i_ad1b"
+  },
+  {
+    "name": "keys.i_ad1c",
+    "label": "Labeled version of index i_ad1c"
+  },
+  {
+    "name": "keys.i_au2",
+    "label": "Labeled version of index i_au2"
+  },
+  {
+    "name": "keys.i_au3a",
+    "label": "Labeled version of index i_au3a"
+  },
+  {
+    "name": "keys.i_au3c1",
+    "label": "Labeled version of index i_au3c1"
+  },
+  {
+    "name": "keys.i_av1",
+    "label": "Labeled version of index i_av1"
+  },
+  {
+    "name": "keys.i_av2",
+    "label": "Labeled version of index i_av2"
+  },
+  {
+    "name": "keys.i_im1",
+    "label": "Labeled version of index i_im1"
+  },
+  {
+    "name": "keys.i_brand",
+    "label": "Labeled version of index i_brand"
+  },
+  {
+    "name": "keys.i_mf",
+    "label": "Labeled version of index i_mf"
+  },
+  {
+    "name": "keys.i_brand2",
+    "label": "Labeled version of index i_brand2"
+  },
+  {
+    "name": "keys.i_som",
+    "label": "Labeled version of index i_som"
+  },
+  {
+    "name": "keys.i_cm1",
+    "label": "Labeled version of index i_cm1"
+  },
+  {
+    "name": "keys.i_cm4",
+    "label": "Labeled version of index i_cm4"
+  },
+  {
+    "name": "keys.i_advt",
+    "label": "Labeled version of index i_advt"
+  },
+  {
+    "name": "keys.i_top",
+    "label": "Labeled version of index i_top"
+  },
+  {
+    "name": "keys.i_mf1",
+    "label": "Labeled version of index i_mf1"
+  },
+  {
+    "name": "keys.i_mf10",
+    "label": "Labeled version of index i_mf10"
+  },
+  {
+    "name": "keys.i_mf11",
+    "label": "Labeled version of index i_mf11"
+  },
+  {
+    "name": "keys.i_mf12",
+    "label": "Labeled version of index i_mf12"
+  },
+  {
+    "name": "keys.i_mf2",
+    "label": "Labeled version of index i_mf2"
+  },
+  {
+    "name": "keys.i_mf3",
+    "label": "Labeled version of index i_mf3"
+  },
+  {
+    "name": "keys.i_mf4",
+    "label": "Labeled version of index i_mf4"
+  },
+  {
+    "name": "keys.i_mf5",
+    "label": "Labeled version of index i_mf5"
+  },
+  {
+    "name": "keys.i_mf6",
+    "label": "Labeled version of index i_mf6"
+  },
+  {
+    "name": "keys.i_mf7",
+    "label": "Labeled version of index i_mf7"
+  },
+  {
+    "name": "keys.i_mf8",
+    "label": "Labeled version of index i_mf8"
+  },
+  {
+    "name": "keys.i_mf9",
+    "label": "Labeled version of index i_mf9"
+  },
+  {
+    "name": "keys._loaderid",
+    "label": "Labeled version of index _loaderId"
+  },
+  {
+    "name": "keys.i_data_type",
+    "label": "(i_data_type)"
+  },
+  {
+    "name": "keys.i_source",
+    "label": "(i_source)"
+  },
+  {
+    "name": "keys.question_type",
+    "label": "Labeled version of index question_type"
+  },
+  {
+    "name": "keys.set_id",
+    "label": "Labeled version of index set_id"
+  },
+  {
+    "name": "keys.wave",
+    "label": "Labeled version of index wave"
+  },
+  {
+    "name": "keys.i_rownum",
+    "label": "(i_rownum)"
+  },
+  {
+    "name": "keys.id",
+    "label": "(id)"
+  },
+  {
+    "name": "keys.seq",
+    "label": "(seq)"
+  },
+  {
+    "name": "keys.rule_id",
+    "label": "(rule_id)"
+  },
+  {
+    "name": "keys.datasource",
+    "label": "(datasource)"
+  },
+  {
+    "name": "keys.index_level",
+    "label": "(index_level)"
+  },
+  {
+    "name": "keys._inputvalue",
+    "label": "(_inputvalue)"
+  },
+  {
+    "name": "keys.tmp_brand_label",
+    "label": "(tmp_brand_label)"
+  },
+  {
+    "name": "keys.i_settings",
+    "label": "(i_settings)"
+  },
+  {
+    "name": "keys.source",
+    "label": "(source)"
+  },
+  {
+    "name": "keys.i_data",
+    "label": "(i_data)"
+  },
+  {
+    "name": "keys.i_wave",
+    "label": "(i_wave)"
+  },
+  {
+    "name": "keys.i_brand_original",
+    "label": "(i_brand_original)"
+  },
+  {
+    "name": "keys.i_im1_original",
+    "label": "(i_im1_original)"
+  },
+  {
+    "name": "keys.i_mf_original",
+    "label": "(i_mf_original)"
+  },
+  {
+    "name": "keys.input_key",
+    "label": "(input_key)"
+  },
+  {
+    "name": "keys.input_source",
+    "label": "(input_source)"
+  },
+  {
+    "name": "keys.type",
+    "label": "(type)"
+  },
+  {
+    "name": "keys.error_message",
+    "label": "(error_message)"
+  },
+  {
+    "name": "keys.error_value",
+    "label": "(error_value)"
+  },
+  {
+    "name": "datamap.all.from_mapping_file",
+    "label": "From_Mapping File"
+  },
+  {
+    "name": "datamap.all.input_key",
+    "label": "Key for unmapped value"
+  },
+  {
+    "name": "datamap.all.input_source",
+    "label": "Label for - Input_Source"
+  },
+  {
+    "name": "datamap.all.input_value",
+    "label": "Label for - Input_Value"
+  },
+  {
+    "name": "datamap.all.mapped_value",
+    "label": "Label for - Mapped_Value"
+  },
+  {
+    "name": "datamap.all.type",
+    "label": "Label for - Type"
+  },
+  {
+    "name": "project.analysis_country_code",
+    "label": "label for analysis_country_code"
+  },
+  {
+    "name": "project.analysis_country_name",
+    "label": "label for analysis_country_name"
+  },
+  {
+    "name": "project.category",
+    "label": "label for Category"
+  },
+  {
+    "name": "project.commissioning_client",
+    "label": "label for commissioning_client"
+  },
+  {
+    "name": "project.commissioning_country_code",
+    "label": "label for commissioning_country_code"
+  },
+  {
+    "name": "project.commissioning_country_name",
+    "label": "label for commissioning_country_name"
+  },
+  {
+    "name": "project.description",
+    "label": "label for Description"
+  },
+  {
+    "name": "project.module",
+    "label": "label for modulename"
+  },
+  {
+    "name": "project.name",
+    "label": "label for Name"
+  },
+  {
+    "name": "project.projectid",
+    "label": "label for projectId"
+  },
+  {
+    "name": "project.projecttype",
+    "label": "label for type"
+  },
+  {
+    "name": "qc.values.rules.output",
+    "label": "Output checked by test"
+  },
+  {
+    "name": "qc.values.rules.rule_message",
+    "label": "Rule messages"
+  },
+  {
+    "name": "qc.values.rules.severity",
+    "label": "Rule severity"
+  },
+  {
+    "name": "sequence_generator.seq",
+    "label": "Sequence Generator"
+  },
+  {
+    "name": "system.loader_driver_details.import_variable_table",
+    "label": "Label - import_variable_table"
+  },
+  {
+    "name": "system.loader_driver_details.index_set_info",
+    "label": "Label - index_set_info"
+  },
+  {
+    "name": "system.loader_driver_details.label",
+    "label": "Label - label"
+  },
+  {
+    "name": "system.loader_driver_details.last_updated",
+    "label": "Label - last_updated"
+  },
+  {
+    "name": "system.loader_driver_details.load_type",
+    "label": "Label - load_type"
+  },
+  {
+    "name": "system.loader_driver_details.mapname",
+    "label": "Label - mapname"
+  },
+  {
+    "name": "system.loader_driver_details.name",
+    "label": "Label - name"
+  },
+  {
+    "name": "system.loader_driver_details.user_name",
+    "label": "Label - user_name"
+  },
+  {
+    "name": "system.loader_driver_files.date_loaded",
+    "label": "Label - date_loaded"
+  },
+  {
+    "name": "system.loader_driver_files.file_name",
+    "label": "Label - file_name"
+  },
+  {
+    "name": "system.loader_driver_files.file_type",
+    "label": "Label - file_type"
+  },
+  {
+    "name": "system.loader_driver_files.id",
+    "label": "Label - id"
+  },
+  {
+    "name": "system.loader_driver_files.table_name",
+    "label": "Label - table_name"
+  },
+  {
+    "name": "system.loader_driver_files.user_name",
+    "label": "Label - user_name"
+  },
+  {
+    "name": "system.loader_driver_master.initialize",
+    "label": "Label - Initialize"
+  },
+  {
+    "name": "system.loader_driver_master.label",
+    "label": "Label - label"
+  },
+  {
+    "name": "system.loader_driver_master.name",
+    "label": "Label - name"
+  },
+  {
+    "name": "system.loader_driver_master.stage_db",
+    "label": "Label - stage_db"
+  },
+  {
+    "name": "system.loader_driver_master.view_db",
+    "label": "Label - view_db"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_au2",
+    "label": "Errors from Input Data: Flag invalid  required cm au2"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_au3a",
+    "label": "Errors from Input Data: Flag invalid  required cm au3a"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_equity_gap",
+    "label": "Errors from Input Data: Flag invalid cm required cm equity_gap"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_evoked_set",
+    "label": "Errors from Input Data: Flag invalid  required cm evoked_set"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_market_share",
+    "label": "Errors from Input Data: Flag invalid cm required cm market_share"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_power_in_the_mind",
+    "label": "Errors from Input Data: Flag invalid cm required cm power_in_the_mind"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_psf",
+    "label": "Errors from Input Data: Flag invalid  required cm psf"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_respondent_serial",
+    "label": "Errors from Input Data: Flag invalid cm required respondent serial"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_segs_grouped",
+    "label": "Errors from Input Data: Flag invalid  required cm segs_grouped"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_segs_ungrouped",
+    "label": "Errors from Input Data: Flag invalid  required cm segs_ungrouped"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_cm_segsum",
+    "label": "Errors from Input Data: Flag invalid  required cm segsum"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_comms_ad_affective",
+    "label": "Errors from Input Data: Flag invalid  required comms ad affective"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_comms_ad_novelty",
+    "label": "Errors from Input Data: Flag invalid  required comms ad novelty"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_comms_ad_relevance",
+    "label": "Errors from Input Data: Flag invalid  required comms ad relevance"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_comms_ad1a",
+    "label": "Errors from Input Data: Flag invalid  required comms ad1a"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_comms_ad1b",
+    "label": "Errors from Input Data: Flag invalid  required comms ad1b"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_required_comms_ad1c",
+    "label": "Errors from Input Data: Flag invalid  required comms ad1c"
+  },
+  {
+    "name": "qc.summary.input.count_invalid_cm_respondent_serial",
+    "label": "Errors from Input Data: Flag invalid cm respondent serial"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_unique_respondent_serial",
+    "label": "Errors from Output Data: Flag invalid cm unique respondent serial"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_age",
+    "label": "Errors from Output Data: Flag invalid cm_age"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_attr_imp",
+    "label": "Errors from Output Data: Flag invalid cm_attr_imp"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_attrshr",
+    "label": "Errors from Output Data: Flag invalid cm_attrshr"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_attrshr_tanimoto",
+    "label": "Errors from Output Data: Flag invalid cm_attrshr_tanimoto"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_au2",
+    "label": "Errors from Output Data: Flag invalid cm au2"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_au3a",
+    "label": "Errors from Output Data: Flag invalid cm au3a"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_au3c1",
+    "label": "Errors from Output Data: Flag invalid cm au3c1"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_cm_som5",
+    "label": "Errors from Output Data: Flag invalid cm cm_som5"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_cm_som6",
+    "label": "Errors from Output Data: Flag invalid cm cm_som6"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_cm1",
+    "label": "Errors from Output Data: Flag invalid cm_cm1"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_cm2",
+    "label": "Errors from Output Data: Flag invalid cm cm2"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_cm4",
+    "label": "Errors from Output Data: Flag invalid cm cm4"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_count_raw_respondent_serial",
+    "label": "Errors from Output Data: Flag invalid cm count raw respondent serial"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_data_segsum",
+    "label": "Errors from Output Data: Flag invalid cm data segsum"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_equity_gap",
+    "label": "Errors from Output Data: Flag invalid cm equity_gap"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_evoked_set",
+    "label": "Errors from Output Data: Flag invalid cm evoked_set"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_gender",
+    "label": "Errors from Output Data: Flag invalid cm_gender"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_imagery",
+    "label": "Errors from Output Data: Flag invalid cm_imagery"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_income",
+    "label": "Errors from Output Data: Flag invalid cm_income"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_market_share",
+    "label": "Errors from Output Data: Flag invalid cm data market_share"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_power_in_the_mind",
+    "label": "Errors from Output Data: Flag invalid cm data power_in_the_mind"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_psf",
+    "label": "Errors from Output Data: Flag invalid psf"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_psf_mf_gain",
+    "label": "Errors from Output Data: Flag invalid cm_psf_mf_gain"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_psf_mf_gain_unmeasured",
+    "label": "Errors from Output Data: Flag invalid cm_psf_mf_gain_unmeasured"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_psf_mf_loss",
+    "label": "Errors from Output Data: Flag invalid cm_psf_mf_loss"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_psf_mf_loss_unmeasured",
+    "label": "Errors from Output Data: Flag invalid cm_psf_mf_loss_unmeasured"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_segs_grouped",
+    "label": "Errors from Output Data: Flag invalid segs_grouped"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_segs_ungrouped",
+    "label": "Errors from Output Data: Flag invalid segs_ungrouped"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_wave",
+    "label": "Errors from Output Data: Flag invalid cm_wave"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_cm_weight",
+    "label": "Errors from Output Data: Flag invalid cm_weight"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_ad_affective",
+    "label": "Errors from Output Data: Flag invalid comms ad_affective"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_ad_novelty",
+    "label": "Errors from Output Data: Flag invalid comms ad_novelty"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_ad_relevance",
+    "label": "Errors from Output Data: Flag invalid comms ad_relevance"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_ad_see_again",
+    "label": "Errors from Output Data: Flag invalid comms_ad_see_again"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_ad_talk_about",
+    "label": "Errors from Output Data: Flag invalid comms_ad_talk_about"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_ad1a_novelty",
+    "label": "Errors from Output Data: Flag invalid comms ad1a_novelty"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_ad1b_relevant",
+    "label": "Errors from Output Data: Flag invalid comms ad1b_relevant"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_ad1c_affective",
+    "label": "Errors from Output Data: Flag invalid comms ad1c_affective"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_bf_current",
+    "label": "Errors from Output Data: Flag invalid comms_bf_current"
+  },
+  {
+    "name": "qc.summary.output.count_invalid_comms_strength_of_relationship",
+    "label": "Errors from Output Data: Flag invalid comms_strength_of_relationship"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.attribute_label",
+    "label": "Attribute Share"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.attribute_label_recode",
+    "label": "attribute_label_recode"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.attribute_list",
+    "label": "List of attributes for project"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.au2",
+    "label": "Consideration"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.au3a",
+    "label": "Usage"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.au3c1",
+    "label": "Market share (Share of Usage)"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.brand_label_recode",
+    "label": "brand_label_recode"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.brand_list",
+    "label": "List of brands for project"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_age",
+    "label": "Age bands"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_attr_imp",
+    "label": "Attribute Importance"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_attrshr",
+    "label": "Attribute Share"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_attrshr_tanimoto",
+    "label": "Derived measure of relative attribute importance"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_brand_labels",
+    "label": "Current data brand labels for CM projects"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_equity_gap",
+    "label": "Equity Gap"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_evoked_set",
+    "label": "Evoked set"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_gender",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_income",
+    "label": "Income"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_market_share",
+    "label": "Market Share"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_mf",
+    "label": "Market factors"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_power_in_the_mind",
+    "label": "Power in the mind"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_psf",
+    "label": "Potential Market Share Flow"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_psf_mf_gain",
+    "label": "Potential Market Share Flows by Market Factors - Gains"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_psf_mf_gain_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Gains unmeassured"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_psf_mf_loss",
+    "label": "Potential Market Share Flows by Market Factors - Losses"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_psf_mf_loss_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Losses unmeassured"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_segs_grouped",
+    "label": "CM segmentation (grouped)"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_segs_ungrouped",
+    "label": "CM segmentation (ungrouped)"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_segsum",
+    "label": "Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_som5",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_som6",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm_tanimoto",
+    "label": "Tanimoto Score"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm1",
+    "label": "Brand Performance / Needs Fit"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm2",
+    "label": "Category Importance"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cm4",
+    "label": "Brand Engagement"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.cmcomms_commsonly",
+    "label": "CM Comms only sample"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_ad_affective",
+    "label": "Affective"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_ad_novelty",
+    "label": "Novelty"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_ad_relevance",
+    "label": "Relevance"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_ad_see_again",
+    "label": "See again"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_ad_talk_about",
+    "label": "Talk about"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_ad1a_novelty",
+    "label": "Novelty (raw)"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_ad1b_relevant",
+    "label": "Relevance (raw)"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_ad1c_affective",
+    "label": "Affective (raw)"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_bf_current",
+    "label": "Brand Fluency segmentation (current)"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_brand_labels",
+    "label": "Current data brand labels"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.comms_strength_of_relationship",
+    "label": "Strength of relationship"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.market_factor_list",
+    "label": "List of market factors for project"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.marketfactor_label",
+    "label": "Market Factor Label"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.marketfactor_label_recode",
+    "label": "brand_label_recode"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.respondent",
+    "label": "Respondent ID"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.wave",
+    "label": "Wave"
+  },
+  {
+    "name": "rio.cm.raw.stage.label_recode.weight",
+    "label": "Weight"
+  },
+  {
+    "name": "rio.project.client",
+    "label": "Client"
+  },
+  {
+    "name": "rio.project.client brands",
+    "label": "Client brands"
+  },
+  {
+    "name": "rio.project.commissioning country",
+    "label": "Commissioning Country"
+  },
+  {
+    "name": "rio.project.commissioning master client",
+    "label": "Commissioning Master Client"
+  },
+  {
+    "name": "rio.project.date commissioned",
+    "label": "Date Commissioned"
+  },
+  {
+    "name": "rio.project.fieldwork country",
+    "label": "Fieldwork Country"
+  },
+  {
+    "name": "rio.project.imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.project.market factors",
+    "label": "Market Factors"
+  },
+  {
+    "name": "rio.project.project description",
+    "label": "Project Description"
+  },
+  {
+    "name": "rio.project.project name",
+    "label": "Project Name"
+  },
+  {
+    "name": "rio.project.project number",
+    "label": "Project Number"
+  },
+  {
+    "name": "rio.project.source application",
+    "label": "Source application"
+  },
+  {
+    "name": "rio.cm.merged.attribute_list",
+    "label": "List of attributes for project"
+  },
+  {
+    "name": "rio.cm.merged.au2",
+    "label": "Consideration"
+  },
+  {
+    "name": "rio.cm.merged.au3a",
+    "label": "Usage"
+  },
+  {
+    "name": "rio.cm.merged.au3c1",
+    "label": "Market share (Share of Usage)"
+  },
+  {
+    "name": "rio.cm.merged.brand_list",
+    "label": "List of brands for project"
+  },
+  {
+    "name": "rio.cm.merged.cm_age",
+    "label": "Age bands"
+  },
+  {
+    "name": "rio.cm.merged.cm_attr_imp",
+    "label": "Attribute Importance"
+  },
+  {
+    "name": "rio.cm.merged.cm_attrshr",
+    "label": "Attribute Share"
+  },
+  {
+    "name": "rio.cm.merged.cm_attrshr_tanimoto",
+    "label": "Derived measure of relative attribute importance"
+  },
+  {
+    "name": "rio.cm.merged.cm_brand_labels",
+    "label": "Current data brand labels for CM projects"
+  },
+  {
+    "name": "rio.cm.merged.cm_equity_gap",
+    "label": "Equity Gap"
+  },
+  {
+    "name": "rio.cm.merged.cm_evoked_set",
+    "label": "Evoked set"
+  },
+  {
+    "name": "rio.cm.merged.cm_gender",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.merged.cm_imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.cm.merged.cm_income",
+    "label": "Income"
+  },
+  {
+    "name": "rio.cm.merged.cm_market_share",
+    "label": "Market Share"
+  },
+  {
+    "name": "rio.cm.merged.cm_mf",
+    "label": "Market factors"
+  },
+  {
+    "name": "rio.cm.merged.cm_power_in_the_mind",
+    "label": "Power in the mind"
+  },
+  {
+    "name": "rio.cm.merged.cm_psf",
+    "label": "Potential Market Share Flow"
+  },
+  {
+    "name": "rio.cm.merged.cm_psf_mf_gain",
+    "label": "Potential Market Share Flows by Market Factors - Gains"
+  },
+  {
+    "name": "rio.cm.merged.cm_psf_mf_gain_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Gains unmeassured"
+  },
+  {
+    "name": "rio.cm.merged.cm_psf_mf_loss",
+    "label": "Potential Market Share Flows by Market Factors - Losses"
+  },
+  {
+    "name": "rio.cm.merged.cm_psf_mf_loss_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Losses unmeassured"
+  },
+  {
+    "name": "rio.cm.merged.cm_segs_grouped",
+    "label": "CM segmentation (grouped)"
+  },
+  {
+    "name": "rio.cm.merged.cm_segs_ungrouped",
+    "label": "CM segmentation (ungrouped)"
+  },
+  {
+    "name": "rio.cm.merged.cm_segsum",
+    "label": "Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.merged.cm_som5",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.merged.cm_som6",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.merged.cm_tanimoto",
+    "label": "Tanimoto Score"
+  },
+  {
+    "name": "rio.cm.merged.cm1",
+    "label": "Brand Performance / Needs Fit"
+  },
+  {
+    "name": "rio.cm.merged.cm2",
+    "label": "Category Importance"
+  },
+  {
+    "name": "rio.cm.merged.cm4",
+    "label": "Brand Engagement"
+  },
+  {
+    "name": "rio.cm.merged.market_factor_list",
+    "label": "List of market factors for project"
+  },
+  {
+    "name": "rio.cm.merged.respondent",
+    "label": "Respondent ID"
+  },
+  {
+    "name": "rio.cm.merged.wave",
+    "label": "Wave"
+  },
+  {
+    "name": "rio.cm.merged.weight",
+    "label": "Weight"
+  },
+  {
+    "name": "rio.cm.merged.cmcomms_commsonly",
+    "label": "CM Comms only sample"
+  },
+  {
+    "name": "rio.cm.merged.comms_ad_affective",
+    "label": "Affective"
+  },
+  {
+    "name": "rio.cm.merged.comms_ad_novelty",
+    "label": "Novelty"
+  },
+  {
+    "name": "rio.cm.merged.comms_ad_relevance",
+    "label": "Relevance"
+  },
+  {
+    "name": "rio.cm.merged.comms_ad_see_again",
+    "label": "See again"
+  },
+  {
+    "name": "rio.cm.merged.comms_ad_talk_about",
+    "label": "Talk about"
+  },
+  {
+    "name": "rio.cm.merged.comms_ad1a_novelty",
+    "label": "Novelty (raw)"
+  },
+  {
+    "name": "rio.cm.merged.comms_ad1b_relevant",
+    "label": "Relevance (raw)"
+  },
+  {
+    "name": "rio.cm.merged.comms_ad1c_affective",
+    "label": "Affective (raw)"
+  },
+  {
+    "name": "rio.cm.merged.comms_bf_current",
+    "label": "Brand Fluency segmentation (current)"
+  },
+  {
+    "name": "rio.cm.merged.comms_brand_labels",
+    "label": "Current data brand labels"
+  },
+  {
+    "name": "rio.cm.merged.comms_strength_of_relationship",
+    "label": "Strength of relationship"
+  },
+  {
+    "name": "datamap.export.input_value",
+    "label": "Datamap input values"
+  },
+  {
+    "name": "datamap.export.mapped_value",
+    "label": "Mapped value for export"
+  },
+  {
+    "name": "datamap.export.from_mapping_file",
+    "label": "Is the mapped value from an uploaded file?"
+  },
+  {
+    "name": "rio.cm.measures.others._loaderid",
+    "label": "_loaderid"
+  },
+  {
+    "name": "rio.cm.measures.others._parentid",
+    "label": "_parentid"
+  },
+  {
+    "name": "rio.cm.measures.others.ad_recognition_1",
+    "label": "Brand W : Print : Recognition guess"
+  },
+  {
+    "name": "rio.cm.measures.others.ad_recognition_2",
+    "label": "Brand W : Print : Recognition correct"
+  },
+  {
+    "name": "rio.cm.measures.others.ad_recognition_3",
+    "label": "Brand W : Print : Time to recognition"
+  },
+  {
+    "name": "rio.cm.measures.others.age",
+    "label": "Age"
+  },
+  {
+    "name": "rio.cm.measures.others.av1",
+    "label": "Brand A : TVC2 Friends : See again"
+  },
+  {
+    "name": "rio.cm.measures.others.av2",
+    "label": "Brand A : TVC2 Friends : Talk about"
+  },
+  {
+    "name": "rio.cm.measures.others.cat_nuse_filter",
+    "label": "Category Non-user Identifier"
+  },
+  {
+    "name": "rio.cm.measures.others.cm_psf_from_brands_brands",
+    "label": "Brand W : Brand W"
+  },
+  {
+    "name": "rio.cm.measures.others.gender",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.measures.others.income",
+    "label": "Household Income"
+  },
+  {
+    "name": "rio.cm.measures.others.month",
+    "label": "Month"
+  },
+  {
+    "name": "rio.cm.measures.others.respondent_serial",
+    "label": "Serial number"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_attrshr",
+    "label": "Attribute Share"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_attrshr_tanimoto",
+    "label": "Derived measure of relative attribute importance"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_equity_gap",
+    "label": "Equity Gap"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_market_share",
+    "label": "Market Share"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_power_in_the_mind",
+    "label": "Power in the mind"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_psf",
+    "label": "Potential Market Share Flow"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_psf_mf_gain",
+    "label": "Potential Market Share Flows by Market Factors - Gains"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_psf_mf_gain_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Gains unmeassured"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_psf_mf_loss",
+    "label": "Potential Market Share Flows by Market Factors - Losses"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_psf_mf_loss_unmeasured",
+    "label": "Potential Market Share Flows by Market Factors - Losses unmeassured"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_tanimoto",
+    "label": "Tanimoto Score"
+  },
+  {
+    "name": "rio.cm.merged.cast.weight",
+    "label": "Weight"
+  },
+  {
+    "name": "rio.cm.merged.cast.au2",
+    "label": "Consideration"
+  },
+  {
+    "name": "rio.cm.merged.cast.au3a",
+    "label": "Usage"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_evoked_set",
+    "label": "Evoked set"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_mf",
+    "label": "Market factors"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_segs_grouped",
+    "label": "CM segmentation (grouped)"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_segs_ungrouped",
+    "label": "CM segmentation (ungrouped)"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_segsum",
+    "label": "Segmentation Summary"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_som5",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_som6",
+    "label": "States of Mind"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm1",
+    "label": "Brand Performance / Needs Fit"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm2",
+    "label": "Category Importance"
+  },
+  {
+    "name": "rio.cm.merged.cast.respondent",
+    "label": "Respondent ID"
+  },
+  {
+    "name": "rio.cm.merged.cast.wave",
+    "label": "Wave"
+  },
+  {
+    "name": "rio.cm.merged.cast.attribute_list",
+    "label": "List of attributes for project"
+  },
+  {
+    "name": "rio.cm.merged.cast.au3c1",
+    "label": "Market share (Share of Usage)"
+  },
+  {
+    "name": "rio.cm.merged.cast.brand_list",
+    "label": "List of brands for project"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_age",
+    "label": "Age bands"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_attr_imp",
+    "label": "Attribute Importance"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_brand_labels",
+    "label": "Current data brand labels for CM projects"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_gender",
+    "label": "Gender"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_imagery",
+    "label": "Imagery"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm_income",
+    "label": "Income"
+  },
+  {
+    "name": "rio.cm.merged.cast.cm4",
+    "label": "Brand Engagement"
+  },
+  {
+    "name": "rio.cm.merged.cast.cmcomms_commsonly",
+    "label": "CM Comms only sample"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_ad_affective",
+    "label": "Affective"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_ad_novelty",
+    "label": "Novelty"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_ad_relevance",
+    "label": "Relevance"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_ad_see_again",
+    "label": "See again"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_ad_talk_about",
+    "label": "Talk about"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_ad1a_novelty",
+    "label": "Novelty (raw)"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_ad1b_relevant",
+    "label": "Relevance (raw)"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_ad1c_affective",
+    "label": "Affective (raw)"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_bf_current",
+    "label": "Brand Fluency segmentation (current)"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_brand_labels",
+    "label": "Current data brand labels"
+  },
+  {
+    "name": "rio.cm.merged.cast.comms_strength_of_relationship",
+    "label": "Strength of relationship"
+  },
+  {
+    "name": "rio.cm.merged.cast.market_factor_list",
+    "label": "List of market factors for project"
+  }
+]

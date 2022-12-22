@@ -1,0 +1,17 @@
+﻿{
+  "showLabels": true,
+  "showKeys": true,
+  "requestType": "normal",
+  "variables": [
+    {
+      "variableName": "rio.mod_eval.measures.likes_words_with_subgroup.measure_value"
+    }
+  ],
+  "filters": [
+    "($keys.word = N'ビール' or $keys.word = N'ところ' or $keys.word = N'スーパードライ' or $keys.word = N'なのに' or $keys.word = N'という') and ($keys.conceptid = N'8368') and ($keys.subgroup = N'category_buyers')"
+  ],
+  "calculationOptions": {
+    "useCache": true,
+    "useSnapshot": false
+  }
+}

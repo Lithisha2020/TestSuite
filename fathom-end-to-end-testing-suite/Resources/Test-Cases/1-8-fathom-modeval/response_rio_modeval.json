@@ -1,0 +1,90 @@
+﻿{
+  "resultType": "Sql",
+  "runStatus": "Complete",
+  "metaData": [
+    {
+      "Namespace": "keys",
+      "VariableName": "conceptid",
+      "Label": "Labeled version of index conceptid",
+      "ColumnName": "conceptid",
+      "LabelColumnName": ""
+    },
+    {
+      "Namespace": "keys",
+      "VariableName": "i_loaderid",
+      "Label": "Labeled version of index i_loaderid",
+      "ColumnName": "i_loaderid",
+      "LabelColumnName": ""
+    },
+    {
+      "Namespace": "keys",
+      "VariableName": "measure",
+      "Label": "Labeled version of index measure",
+      "ColumnName": "measure",
+      "LabelColumnName": ""
+    },
+    {
+      "Namespace": "keys",
+      "VariableName": "subgroup",
+      "Label": "Labeled version of index subgroup",
+      "ColumnName": "subgroup",
+      "LabelColumnName": ""
+    },
+    {
+      "Namespace": "keys",
+      "VariableName": "word",
+      "Label": "Labeled version of index word",
+      "ColumnName": "word",
+      "LabelColumnName": ""
+    },
+    {
+      "Namespace": "rio.mod_eval.measures.likes_words_with_subgroup",
+      "VariableName": "measure_value",
+      "Label": "measure_value",
+      "ColumnName": "measure_value",
+      "LabelColumnName": ""
+    }
+  ],
+  "data": [
+    {
+      "conceptid": 8368,
+      "i_loaderid": <loader_id>,
+      "measure": "LIKES",
+      "subgroup": "category_buyers",
+      "word": "スーパードライ",
+      "measure_value": 1.06707317073171
+    },
+    {
+      "conceptid": 8368,
+      "i_loaderid": <loader_id>,
+      "measure": "LIKES",
+      "subgroup": "category_buyers",
+      "word": "という",
+      "measure_value": 0.838414634146342
+    },
+    {
+      "conceptid": 8368,
+      "i_loaderid": <loader_id>,
+      "measure": "LIKES",
+      "subgroup": "category_buyers",
+      "word": "ところ",
+      "measure_value": 1.3719512195122
+    },
+    {
+      "conceptid": 8368,
+      "i_loaderid": <loader_id>,
+      "measure": "LIKES",
+      "subgroup": "category_buyers",
+      "word": "なのに",
+      "measure_value": 0.914634146341463
+    },
+    {
+      "conceptid": 8368,
+      "i_loaderid": <loader_id>,
+      "measure": "LIKES",
+      "subgroup": "category_buyers",
+      "word": "ビール",
+      "measure_value": 3.88719512195122
+    }
+  ]
+}

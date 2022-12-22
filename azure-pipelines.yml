@@ -1,0 +1,64 @@
+# ASP.NET
+# Build and test ASP.NET projects.
+# Add steps that publish symbols, save build artifacts, deploy, and more:
+
+
+trigger:
+- master
+
+
+jobs:
+- job: Default
+  timeoutInMinutes: 300
+  pool:
+    vmImage: 'windows-latest'
+
+  variables:
+    - group: Fathom-Dev
+    - name: solution
+      value: '**/*.sln'
+    - name: buildPlatform 
+      value : 'Any CPU'
+    - name: buildConfiguration
+      value: 'Release'
+  
+
+  steps:
+  - task: NuGetToolInstaller@1
+
+  - task: NuGetCommand@2
+    inputs:
+      restoreSolution: '$(solution)'
+
+  - task: VSBuild@1
+    inputs:
+      solution: '$(solution)'
+      msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactStagingDirectory)"'
+      platform: '$(buildPlatform)'
+      configuration: '$(buildConfiguration)'
+    timeoutInMinutes: 180
+
+  - task: SpecFlowPlus@0
+    inputs:
+      projectFilePath: 'Features'
+      projectName: 'fathom-end-to-end-testing-suite'
+      projectLanguage: 'en'
+
+  - task: VSTest@2
+    inputs:
+      testSelector: 'testAssemblies'
+      testAssemblyVer2: |
+        **\*test*.dll
+        !**\*TestAdapter.dll
+        !**\obj\**
+      searchFolder: '$(System.DefaultWorkingDirectory)'
+      runSettingsFile: 'fathom.runsettings'
+      overrideTestrunParameters: '-grant_type $(grant_type) -resource $(resource) -client_id $(client_id) -client_secret $(client_secret) -auth_url $(auth_url) -fathom_url $(fathom_url)'
+    timeoutInMinutes: 180 
+
+  - task: PublishPipelineArtifact@1
+    inputs:
+      targetPath: '$(Pipeline.Workspace)'
+      artifact: 'binaries'
+      publishLocation: 'pipeline'
+

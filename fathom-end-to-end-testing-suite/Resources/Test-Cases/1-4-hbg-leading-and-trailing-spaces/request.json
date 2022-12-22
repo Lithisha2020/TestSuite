@@ -1,0 +1,9 @@
+{
+  "variables": [
+    {
+      "variableName": "all.normal.spaces.count.total",
+      "queryType": "primary",
+      "transformType": "normal"
+    }
+  ]
+}

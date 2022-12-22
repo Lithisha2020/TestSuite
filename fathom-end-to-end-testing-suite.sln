@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fathom-end-to-end-testing-suite", "fathom-end-to-end-testing-suite\fathom-end-to-end-testing-suite.csproj", "{1274B6D5-F691-4CF2-9F29-B7B7E71ECC77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1274B6D5-F691-4CF2-9F29-B7B7E71ECC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1274B6D5-F691-4CF2-9F29-B7B7E71ECC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1274B6D5-F691-4CF2-9F29-B7B7E71ECC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1274B6D5-F691-4CF2-9F29-B7B7E71ECC77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7913D3C-8C0C-4192-99BF-7E3703BDC719}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+{
+ 
+  "Measures": [
+    {
+      "Id": "rio_cm_measures.incidence_cm_som5",     
+      "ReturnMeasure": true,
+      "ReturnNumerator": true,
+      "ReturnDenominator": true,
+      "ReturnCount": false,
+      "MeasureLabel": "rio_cm_measures.incidence_cm_som5",
+      "NumeratorLabel": "rio_cm_measures.incidence_cm_som5__numerator",
+      "DenominatorLabel": "rio_cm_measures.incidence_cm_som5__denominator"
+    
+    }
+  ],
+  "ShowLabels": false,
+  "VariableLabelForColumnHeaders": false,
+  "CheckCompatibility": true,
+  "Filters": [
+    "($rio.cm.measures.cm_segsum = '1') and ($rio.cm.measures.wave = '1' or $rio.cm.measures.wave = '2' or $rio.cm.measures.wave = '3')"
+  ],
+  "CrossVariables": [
+    "rio.cm.measures.wave"
+  ]
+}
